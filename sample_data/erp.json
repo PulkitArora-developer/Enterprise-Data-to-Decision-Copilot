@@ -1,0 +1,4052 @@
+[
+  {
+    "customer_id": "C001",
+    "revenue_q3": 94866,
+    "revenue_q4_projected": 95020,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 1374
+  },
+  {
+    "customer_id": "C002",
+    "revenue_q3": 44519,
+    "revenue_q4_projected": 58823,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 6483
+  },
+  {
+    "customer_id": "C003",
+    "revenue_q3": 51126,
+    "revenue_q4_projected": 64647,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 12255
+  },
+  {
+    "customer_id": "C004",
+    "revenue_q3": 74758,
+    "revenue_q4_projected": 84561,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 18825
+  },
+  {
+    "customer_id": "C005",
+    "revenue_q3": 54755,
+    "revenue_q4_projected": 62165,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 27872
+  },
+  {
+    "customer_id": "C006",
+    "revenue_q3": 47497,
+    "revenue_q4_projected": 43486,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 3938
+  },
+  {
+    "customer_id": "C007",
+    "revenue_q3": 27003,
+    "revenue_q4_projected": 29082,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 13218
+  },
+  {
+    "customer_id": "C008",
+    "revenue_q3": 92347,
+    "revenue_q4_projected": 91758,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 9191
+  },
+  {
+    "customer_id": "C009",
+    "revenue_q3": 54747,
+    "revenue_q4_projected": 73032,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 22626
+  },
+  {
+    "customer_id": "C010",
+    "revenue_q3": 48296,
+    "revenue_q4_projected": 67308,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 6578
+  },
+  {
+    "customer_id": "C011",
+    "revenue_q3": 60909,
+    "revenue_q4_projected": 75330,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 80564
+  },
+  {
+    "customer_id": "C012",
+    "revenue_q3": 28903,
+    "revenue_q4_projected": 26591,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 19686
+  },
+  {
+    "customer_id": "C013",
+    "revenue_q3": 57683,
+    "revenue_q4_projected": 54000,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 29698
+  },
+  {
+    "customer_id": "C014",
+    "revenue_q3": 25512,
+    "revenue_q4_projected": 22492,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 66545
+  },
+  {
+    "customer_id": "C015",
+    "revenue_q3": 78119,
+    "revenue_q4_projected": 90528,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 117961
+  },
+  {
+    "customer_id": "C016",
+    "revenue_q3": 85540,
+    "revenue_q4_projected": 82944,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 7981
+  },
+  {
+    "customer_id": "C017",
+    "revenue_q3": 34988,
+    "revenue_q4_projected": 34303,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 8980
+  },
+  {
+    "customer_id": "C018",
+    "revenue_q3": 74476,
+    "revenue_q4_projected": 90608,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 49396
+  },
+  {
+    "customer_id": "C019",
+    "revenue_q3": 72509,
+    "revenue_q4_projected": 90474,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 4975
+  },
+  {
+    "customer_id": "C020",
+    "revenue_q3": 75825,
+    "revenue_q4_projected": 78586,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 12344
+  },
+  {
+    "customer_id": "C021",
+    "revenue_q3": 51416,
+    "revenue_q4_projected": 63731,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 19767
+  },
+  {
+    "customer_id": "C022",
+    "revenue_q3": 25204,
+    "revenue_q4_projected": 25886,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 76657
+  },
+  {
+    "customer_id": "C023",
+    "revenue_q3": 81425,
+    "revenue_q4_projected": 75943,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 24506
+  },
+  {
+    "customer_id": "C024",
+    "revenue_q3": 62718,
+    "revenue_q4_projected": 75560,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 8036
+  },
+  {
+    "customer_id": "C025",
+    "revenue_q3": 41471,
+    "revenue_q4_projected": 36524,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 43147
+  },
+  {
+    "customer_id": "C026",
+    "revenue_q3": 38469,
+    "revenue_q4_projected": 56849,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 37
+  },
+  {
+    "customer_id": "C027",
+    "revenue_q3": 45688,
+    "revenue_q4_projected": 63284,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 145377
+  },
+  {
+    "customer_id": "C028",
+    "revenue_q3": 26812,
+    "revenue_q4_projected": 38836,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 5338
+  },
+  {
+    "customer_id": "C029",
+    "revenue_q3": 107657,
+    "revenue_q4_projected": 108525,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 30266
+  },
+  {
+    "customer_id": "C030",
+    "revenue_q3": 13428,
+    "revenue_q4_projected": 27466,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 30739
+  },
+  {
+    "customer_id": "C031",
+    "revenue_q3": 93737,
+    "revenue_q4_projected": 97277,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 42613
+  },
+  {
+    "customer_id": "C032",
+    "revenue_q3": 42644,
+    "revenue_q4_projected": 59109,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 3957
+  },
+  {
+    "customer_id": "C033",
+    "revenue_q3": 49679,
+    "revenue_q4_projected": 44111,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 200000,
+    "outstanding_balance": 5979
+  },
+  {
+    "customer_id": "C034",
+    "revenue_q3": 54818,
+    "revenue_q4_projected": 64206,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 4283
+  },
+  {
+    "customer_id": "C035",
+    "revenue_q3": 50603,
+    "revenue_q4_projected": 42473,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 46325
+  },
+  {
+    "customer_id": "C036",
+    "revenue_q3": 24845,
+    "revenue_q4_projected": 40825,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 63673
+  },
+  {
+    "customer_id": "C037",
+    "revenue_q3": 78650,
+    "revenue_q4_projected": 94260,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 26653
+  },
+  {
+    "customer_id": "C038",
+    "revenue_q3": 85874,
+    "revenue_q4_projected": 105849,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 8077
+  },
+  {
+    "customer_id": "C039",
+    "revenue_q3": 12737,
+    "revenue_q4_projected": 26069,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 40972
+  },
+  {
+    "customer_id": "C040",
+    "revenue_q3": 23482,
+    "revenue_q4_projected": 16736,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 13294
+  },
+  {
+    "customer_id": "C041",
+    "revenue_q3": 95032,
+    "revenue_q4_projected": 102420,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 15025
+  },
+  {
+    "customer_id": "C042",
+    "revenue_q3": 57368,
+    "revenue_q4_projected": 60469,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 40573
+  },
+  {
+    "customer_id": "C043",
+    "revenue_q3": 57101,
+    "revenue_q4_projected": 49976,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 11536
+  },
+  {
+    "customer_id": "C044",
+    "revenue_q3": 63100,
+    "revenue_q4_projected": 54765,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 1978
+  },
+  {
+    "customer_id": "C045",
+    "revenue_q3": 100977,
+    "revenue_q4_projected": 117952,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 5007
+  },
+  {
+    "customer_id": "C046",
+    "revenue_q3": 21081,
+    "revenue_q4_projected": 25452,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 45325
+  },
+  {
+    "customer_id": "C047",
+    "revenue_q3": 72080,
+    "revenue_q4_projected": 76614,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 75001
+  },
+  {
+    "customer_id": "C048",
+    "revenue_q3": 80961,
+    "revenue_q4_projected": 77884,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 64130
+  },
+  {
+    "customer_id": "C049",
+    "revenue_q3": 78993,
+    "revenue_q4_projected": 94599,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 8683
+  },
+  {
+    "customer_id": "C050",
+    "revenue_q3": 86516,
+    "revenue_q4_projected": 101107,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 7999
+  },
+  {
+    "customer_id": "C051",
+    "revenue_q3": 70530,
+    "revenue_q4_projected": 90510,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 25199
+  },
+  {
+    "customer_id": "C052",
+    "revenue_q3": 86487,
+    "revenue_q4_projected": 95444,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 13559
+  },
+  {
+    "customer_id": "C053",
+    "revenue_q3": 98782,
+    "revenue_q4_projected": 93587,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 79839
+  },
+  {
+    "customer_id": "C054",
+    "revenue_q3": 71213,
+    "revenue_q4_projected": 68853,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 32279
+  },
+  {
+    "customer_id": "C055",
+    "revenue_q3": 27447,
+    "revenue_q4_projected": 38523,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 57393
+  },
+  {
+    "customer_id": "C056",
+    "revenue_q3": 72499,
+    "revenue_q4_projected": 87176,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 5862
+  },
+  {
+    "customer_id": "C057",
+    "revenue_q3": 87681,
+    "revenue_q4_projected": 89952,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 12114
+  },
+  {
+    "customer_id": "C058",
+    "revenue_q3": 83267,
+    "revenue_q4_projected": 98258,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 8684
+  },
+  {
+    "customer_id": "C059",
+    "revenue_q3": 39509,
+    "revenue_q4_projected": 48164,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 6964
+  },
+  {
+    "customer_id": "C060",
+    "revenue_q3": 37615,
+    "revenue_q4_projected": 34035,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 55134
+  },
+  {
+    "customer_id": "C061",
+    "revenue_q3": 98974,
+    "revenue_q4_projected": 89578,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 18706
+  },
+  {
+    "customer_id": "C062",
+    "revenue_q3": 81420,
+    "revenue_q4_projected": 87920,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 31033
+  },
+  {
+    "customer_id": "C063",
+    "revenue_q3": 20492,
+    "revenue_q4_projected": 12049,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 20063
+  },
+  {
+    "customer_id": "C064",
+    "revenue_q3": 94232,
+    "revenue_q4_projected": 84245,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 16616
+  },
+  {
+    "customer_id": "C065",
+    "revenue_q3": 18181,
+    "revenue_q4_projected": 13359,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 14454
+  },
+  {
+    "customer_id": "C066",
+    "revenue_q3": 48230,
+    "revenue_q4_projected": 39130,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 25662
+  },
+  {
+    "customer_id": "C067",
+    "revenue_q3": 86966,
+    "revenue_q4_projected": 99569,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 29835
+  },
+  {
+    "customer_id": "C068",
+    "revenue_q3": 46908,
+    "revenue_q4_projected": 66494,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 141387
+  },
+  {
+    "customer_id": "C069",
+    "revenue_q3": 94182,
+    "revenue_q4_projected": 106216,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 54161
+  },
+  {
+    "customer_id": "C070",
+    "revenue_q3": 66860,
+    "revenue_q4_projected": 75269,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 34027
+  },
+  {
+    "customer_id": "C071",
+    "revenue_q3": 79571,
+    "revenue_q4_projected": 78520,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 51847
+  },
+  {
+    "customer_id": "C072",
+    "revenue_q3": 63838,
+    "revenue_q4_projected": 64227,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 20209
+  },
+  {
+    "customer_id": "C073",
+    "revenue_q3": 72766,
+    "revenue_q4_projected": 83731,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 46177
+  },
+  {
+    "customer_id": "C074",
+    "revenue_q3": 92610,
+    "revenue_q4_projected": 85535,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 57721
+  },
+  {
+    "customer_id": "C075",
+    "revenue_q3": 73992,
+    "revenue_q4_projected": 86828,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 14350
+  },
+  {
+    "customer_id": "C076",
+    "revenue_q3": 91836,
+    "revenue_q4_projected": 104286,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 120507
+  },
+  {
+    "customer_id": "C077",
+    "revenue_q3": 37721,
+    "revenue_q4_projected": 57410,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 12053
+  },
+  {
+    "customer_id": "C078",
+    "revenue_q3": 58435,
+    "revenue_q4_projected": 78217,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 1003
+  },
+  {
+    "customer_id": "C079",
+    "revenue_q3": 71433,
+    "revenue_q4_projected": 85928,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 104546
+  },
+  {
+    "customer_id": "C080",
+    "revenue_q3": 79054,
+    "revenue_q4_projected": 70342,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 17683
+  },
+  {
+    "customer_id": "C081",
+    "revenue_q3": 12799,
+    "revenue_q4_projected": 16092,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 27481
+  },
+  {
+    "customer_id": "C082",
+    "revenue_q3": 65690,
+    "revenue_q4_projected": 61402,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 10471
+  },
+  {
+    "customer_id": "C083",
+    "revenue_q3": 17292,
+    "revenue_q4_projected": 28388,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 23640
+  },
+  {
+    "customer_id": "C084",
+    "revenue_q3": 44418,
+    "revenue_q4_projected": 49017,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 56601
+  },
+  {
+    "customer_id": "C085",
+    "revenue_q3": 98490,
+    "revenue_q4_projected": 113977,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 113856
+  },
+  {
+    "customer_id": "C086",
+    "revenue_q3": 40516,
+    "revenue_q4_projected": 43265,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 3557
+  },
+  {
+    "customer_id": "C087",
+    "revenue_q3": 28528,
+    "revenue_q4_projected": 37411,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 58322
+  },
+  {
+    "customer_id": "C088",
+    "revenue_q3": 39661,
+    "revenue_q4_projected": 31923,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 18429
+  },
+  {
+    "customer_id": "C089",
+    "revenue_q3": 33103,
+    "revenue_q4_projected": 41798,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 144212
+  },
+  {
+    "customer_id": "C090",
+    "revenue_q3": 40132,
+    "revenue_q4_projected": 54468,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 200000,
+    "outstanding_balance": 14308
+  },
+  {
+    "customer_id": "C091",
+    "revenue_q3": 72967,
+    "revenue_q4_projected": 81284,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 18643
+  },
+  {
+    "customer_id": "C092",
+    "revenue_q3": 74930,
+    "revenue_q4_projected": 83405,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 10851
+  },
+  {
+    "customer_id": "C093",
+    "revenue_q3": 61221,
+    "revenue_q4_projected": 73311,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 48
+  },
+  {
+    "customer_id": "C094",
+    "revenue_q3": 81836,
+    "revenue_q4_projected": 100171,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 231495
+  },
+  {
+    "customer_id": "C095",
+    "revenue_q3": 61753,
+    "revenue_q4_projected": 65212,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 29893
+  },
+  {
+    "customer_id": "C096",
+    "revenue_q3": 82324,
+    "revenue_q4_projected": 101538,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 8226
+  },
+  {
+    "customer_id": "C097",
+    "revenue_q3": 37398,
+    "revenue_q4_projected": 33253,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 1817
+  },
+  {
+    "customer_id": "C098",
+    "revenue_q3": 78433,
+    "revenue_q4_projected": 71687,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 144143
+  },
+  {
+    "customer_id": "C099",
+    "revenue_q3": 87539,
+    "revenue_q4_projected": 78103,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 22200
+  },
+  {
+    "customer_id": "C100",
+    "revenue_q3": 18775,
+    "revenue_q4_projected": 28677,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 22925
+  },
+  {
+    "customer_id": "C101",
+    "revenue_q3": 34045,
+    "revenue_q4_projected": 35032,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 68528
+  },
+  {
+    "customer_id": "C102",
+    "revenue_q3": 66642,
+    "revenue_q4_projected": 65986,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 2555
+  },
+  {
+    "customer_id": "C103",
+    "revenue_q3": 40450,
+    "revenue_q4_projected": 39112,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 21593
+  },
+  {
+    "customer_id": "C104",
+    "revenue_q3": 89632,
+    "revenue_q4_projected": 94960,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 44440
+  },
+  {
+    "customer_id": "C105",
+    "revenue_q3": 35994,
+    "revenue_q4_projected": 50835,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 21428
+  },
+  {
+    "customer_id": "C106",
+    "revenue_q3": 79327,
+    "revenue_q4_projected": 98861,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 17631
+  },
+  {
+    "customer_id": "C107",
+    "revenue_q3": 70488,
+    "revenue_q4_projected": 80800,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 841
+  },
+  {
+    "customer_id": "C108",
+    "revenue_q3": 52866,
+    "revenue_q4_projected": 68128,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 18794
+  },
+  {
+    "customer_id": "C109",
+    "revenue_q3": 84048,
+    "revenue_q4_projected": 99730,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 13685
+  },
+  {
+    "customer_id": "C110",
+    "revenue_q3": 66569,
+    "revenue_q4_projected": 69128,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 15562
+  },
+  {
+    "customer_id": "C111",
+    "revenue_q3": 60363,
+    "revenue_q4_projected": 69789,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 14107
+  },
+  {
+    "customer_id": "C112",
+    "revenue_q3": 72697,
+    "revenue_q4_projected": 80483,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 8660
+  },
+  {
+    "customer_id": "C113",
+    "revenue_q3": 72890,
+    "revenue_q4_projected": 89479,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 94105
+  },
+  {
+    "customer_id": "C114",
+    "revenue_q3": 91538,
+    "revenue_q4_projected": 107779,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 90765
+  },
+  {
+    "customer_id": "C115",
+    "revenue_q3": 99529,
+    "revenue_q4_projected": 112360,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 5437
+  },
+  {
+    "customer_id": "C116",
+    "revenue_q3": 63019,
+    "revenue_q4_projected": 67563,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 200000,
+    "outstanding_balance": 11136
+  },
+  {
+    "customer_id": "C117",
+    "revenue_q3": 55517,
+    "revenue_q4_projected": 50425,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 221992
+  },
+  {
+    "customer_id": "C118",
+    "revenue_q3": 98727,
+    "revenue_q4_projected": 111473,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 4455
+  },
+  {
+    "customer_id": "C119",
+    "revenue_q3": 98814,
+    "revenue_q4_projected": 97437,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 14078
+  },
+  {
+    "customer_id": "C120",
+    "revenue_q3": 39359,
+    "revenue_q4_projected": 45851,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 45238
+  },
+  {
+    "customer_id": "C121",
+    "revenue_q3": 34642,
+    "revenue_q4_projected": 24831,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 3877
+  },
+  {
+    "customer_id": "C122",
+    "revenue_q3": 42073,
+    "revenue_q4_projected": 34444,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 28987
+  },
+  {
+    "customer_id": "C123",
+    "revenue_q3": 51553,
+    "revenue_q4_projected": 61853,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 19484
+  },
+  {
+    "customer_id": "C124",
+    "revenue_q3": 54656,
+    "revenue_q4_projected": 54316,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 1860
+  },
+  {
+    "customer_id": "C125",
+    "revenue_q3": 80276,
+    "revenue_q4_projected": 83722,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 47454
+  },
+  {
+    "customer_id": "C126",
+    "revenue_q3": 50014,
+    "revenue_q4_projected": 52625,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 14804
+  },
+  {
+    "customer_id": "C127",
+    "revenue_q3": 32268,
+    "revenue_q4_projected": 36896,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 36811
+  },
+  {
+    "customer_id": "C128",
+    "revenue_q3": 59377,
+    "revenue_q4_projected": 71912,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 18129
+  },
+  {
+    "customer_id": "C129",
+    "revenue_q3": 27968,
+    "revenue_q4_projected": 35846,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 81069
+  },
+  {
+    "customer_id": "C130",
+    "revenue_q3": 89197,
+    "revenue_q4_projected": 91450,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 9845
+  },
+  {
+    "customer_id": "C131",
+    "revenue_q3": 89415,
+    "revenue_q4_projected": 84816,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 25373
+  },
+  {
+    "customer_id": "C132",
+    "revenue_q3": 60651,
+    "revenue_q4_projected": 52635,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 94091
+  },
+  {
+    "customer_id": "C133",
+    "revenue_q3": 32585,
+    "revenue_q4_projected": 45295,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 41315
+  },
+  {
+    "customer_id": "C134",
+    "revenue_q3": 27878,
+    "revenue_q4_projected": 25012,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 1888
+  },
+  {
+    "customer_id": "C135",
+    "revenue_q3": 32589,
+    "revenue_q4_projected": 43996,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 861
+  },
+  {
+    "customer_id": "C136",
+    "revenue_q3": 106080,
+    "revenue_q4_projected": 122378,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 3736
+  },
+  {
+    "customer_id": "C137",
+    "revenue_q3": 30351,
+    "revenue_q4_projected": 38666,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 32666
+  },
+  {
+    "customer_id": "C138",
+    "revenue_q3": 69267,
+    "revenue_q4_projected": 63779,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 31223
+  },
+  {
+    "customer_id": "C139",
+    "revenue_q3": 106089,
+    "revenue_q4_projected": 103776,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 7112
+  },
+  {
+    "customer_id": "C140",
+    "revenue_q3": 60308,
+    "revenue_q4_projected": 58702,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 13039
+  },
+  {
+    "customer_id": "C141",
+    "revenue_q3": 35028,
+    "revenue_q4_projected": 44751,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 61356
+  },
+  {
+    "customer_id": "C142",
+    "revenue_q3": 103307,
+    "revenue_q4_projected": 100216,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 80892
+  },
+  {
+    "customer_id": "C143",
+    "revenue_q3": 23789,
+    "revenue_q4_projected": 16088,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 8215
+  },
+  {
+    "customer_id": "C144",
+    "revenue_q3": 29267,
+    "revenue_q4_projected": 36845,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 15230
+  },
+  {
+    "customer_id": "C145",
+    "revenue_q3": 45892,
+    "revenue_q4_projected": 60231,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 67959
+  },
+  {
+    "customer_id": "C146",
+    "revenue_q3": 49136,
+    "revenue_q4_projected": 52586,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 706
+  },
+  {
+    "customer_id": "C147",
+    "revenue_q3": 63938,
+    "revenue_q4_projected": 55011,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 119851
+  },
+  {
+    "customer_id": "C148",
+    "revenue_q3": 60124,
+    "revenue_q4_projected": 66143,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 155885
+  },
+  {
+    "customer_id": "C149",
+    "revenue_q3": 91872,
+    "revenue_q4_projected": 99766,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 200000,
+    "outstanding_balance": 17576
+  },
+  {
+    "customer_id": "C150",
+    "revenue_q3": 53388,
+    "revenue_q4_projected": 51823,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 1463
+  },
+  {
+    "customer_id": "C151",
+    "revenue_q3": 29428,
+    "revenue_q4_projected": 43217,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 48434
+  },
+  {
+    "customer_id": "C152",
+    "revenue_q3": 35793,
+    "revenue_q4_projected": 37474,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 236361
+  },
+  {
+    "customer_id": "C153",
+    "revenue_q3": 55533,
+    "revenue_q4_projected": 58085,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 33680
+  },
+  {
+    "customer_id": "C154",
+    "revenue_q3": 82478,
+    "revenue_q4_projected": 101822,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 5222
+  },
+  {
+    "customer_id": "C155",
+    "revenue_q3": 86905,
+    "revenue_q4_projected": 89860,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 2103
+  },
+  {
+    "customer_id": "C156",
+    "revenue_q3": 31174,
+    "revenue_q4_projected": 35500,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 17495
+  },
+  {
+    "customer_id": "C157",
+    "revenue_q3": 65596,
+    "revenue_q4_projected": 73219,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 3948
+  },
+  {
+    "customer_id": "C158",
+    "revenue_q3": 76242,
+    "revenue_q4_projected": 93355,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 4910
+  },
+  {
+    "customer_id": "C159",
+    "revenue_q3": 25476,
+    "revenue_q4_projected": 18644,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 8550
+  },
+  {
+    "customer_id": "C160",
+    "revenue_q3": 54871,
+    "revenue_q4_projected": 52036,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 2133
+  },
+  {
+    "customer_id": "C161",
+    "revenue_q3": 40154,
+    "revenue_q4_projected": 34517,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 38006
+  },
+  {
+    "customer_id": "C162",
+    "revenue_q3": 24745,
+    "revenue_q4_projected": 17075,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 5305
+  },
+  {
+    "customer_id": "C163",
+    "revenue_q3": 76068,
+    "revenue_q4_projected": 92398,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 5831
+  },
+  {
+    "customer_id": "C164",
+    "revenue_q3": 36105,
+    "revenue_q4_projected": 30437,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 13767
+  },
+  {
+    "customer_id": "C165",
+    "revenue_q3": 35196,
+    "revenue_q4_projected": 50588,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 11388
+  },
+  {
+    "customer_id": "C166",
+    "revenue_q3": 21901,
+    "revenue_q4_projected": 33628,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 7365
+  },
+  {
+    "customer_id": "C167",
+    "revenue_q3": 57498,
+    "revenue_q4_projected": 48950,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 67841
+  },
+  {
+    "customer_id": "C168",
+    "revenue_q3": 80333,
+    "revenue_q4_projected": 74149,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 36118
+  },
+  {
+    "customer_id": "C169",
+    "revenue_q3": 96148,
+    "revenue_q4_projected": 95064,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 8013
+  },
+  {
+    "customer_id": "C170",
+    "revenue_q3": 77474,
+    "revenue_q4_projected": 78476,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 102466
+  },
+  {
+    "customer_id": "C171",
+    "revenue_q3": 31901,
+    "revenue_q4_projected": 50124,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 42274
+  },
+  {
+    "customer_id": "C172",
+    "revenue_q3": 80782,
+    "revenue_q4_projected": 94380,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 114777
+  },
+  {
+    "customer_id": "C173",
+    "revenue_q3": 49859,
+    "revenue_q4_projected": 43988,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 11857
+  },
+  {
+    "customer_id": "C174",
+    "revenue_q3": 70007,
+    "revenue_q4_projected": 81320,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 64222
+  },
+  {
+    "customer_id": "C175",
+    "revenue_q3": 26802,
+    "revenue_q4_projected": 27069,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 38575
+  },
+  {
+    "customer_id": "C176",
+    "revenue_q3": 63600,
+    "revenue_q4_projected": 75374,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 9874
+  },
+  {
+    "customer_id": "C177",
+    "revenue_q3": 71021,
+    "revenue_q4_projected": 66321,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 6320
+  },
+  {
+    "customer_id": "C178",
+    "revenue_q3": 84340,
+    "revenue_q4_projected": 94943,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 44836
+  },
+  {
+    "customer_id": "C179",
+    "revenue_q3": 97857,
+    "revenue_q4_projected": 93942,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 41969
+  },
+  {
+    "customer_id": "C180",
+    "revenue_q3": 83306,
+    "revenue_q4_projected": 83305,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 8384
+  },
+  {
+    "customer_id": "C181",
+    "revenue_q3": 65780,
+    "revenue_q4_projected": 63697,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 29365
+  },
+  {
+    "customer_id": "C182",
+    "revenue_q3": 95171,
+    "revenue_q4_projected": 91093,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 76580
+  },
+  {
+    "customer_id": "C183",
+    "revenue_q3": 61238,
+    "revenue_q4_projected": 76571,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 6788
+  },
+  {
+    "customer_id": "C184",
+    "revenue_q3": 70082,
+    "revenue_q4_projected": 71017,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 1919
+  },
+  {
+    "customer_id": "C185",
+    "revenue_q3": 40235,
+    "revenue_q4_projected": 41102,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 200000,
+    "outstanding_balance": 25813
+  },
+  {
+    "customer_id": "C186",
+    "revenue_q3": 28888,
+    "revenue_q4_projected": 19287,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 13373
+  },
+  {
+    "customer_id": "C187",
+    "revenue_q3": 65063,
+    "revenue_q4_projected": 78643,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 12069
+  },
+  {
+    "customer_id": "C188",
+    "revenue_q3": 94375,
+    "revenue_q4_projected": 112490,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 10265
+  },
+  {
+    "customer_id": "C189",
+    "revenue_q3": 55322,
+    "revenue_q4_projected": 75097,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 8900
+  },
+  {
+    "customer_id": "C190",
+    "revenue_q3": 91003,
+    "revenue_q4_projected": 97475,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 3662
+  },
+  {
+    "customer_id": "C191",
+    "revenue_q3": 83590,
+    "revenue_q4_projected": 91770,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 5677
+  },
+  {
+    "customer_id": "C192",
+    "revenue_q3": 101374,
+    "revenue_q4_projected": 107377,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 9927
+  },
+  {
+    "customer_id": "C193",
+    "revenue_q3": 25763,
+    "revenue_q4_projected": 30651,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 52192
+  },
+  {
+    "customer_id": "C194",
+    "revenue_q3": 85324,
+    "revenue_q4_projected": 88042,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 10391
+  },
+  {
+    "customer_id": "C195",
+    "revenue_q3": 28974,
+    "revenue_q4_projected": 21244,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 6169
+  },
+  {
+    "customer_id": "C196",
+    "revenue_q3": 91475,
+    "revenue_q4_projected": 83662,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 2967
+  },
+  {
+    "customer_id": "C197",
+    "revenue_q3": 82053,
+    "revenue_q4_projected": 93154,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 58328
+  },
+  {
+    "customer_id": "C198",
+    "revenue_q3": 51275,
+    "revenue_q4_projected": 51841,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 200000,
+    "outstanding_balance": 16999
+  },
+  {
+    "customer_id": "C199",
+    "revenue_q3": 84078,
+    "revenue_q4_projected": 85948,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 79064
+  },
+  {
+    "customer_id": "C200",
+    "revenue_q3": 74126,
+    "revenue_q4_projected": 87218,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 6094
+  },
+  {
+    "customer_id": "C201",
+    "revenue_q3": 54623,
+    "revenue_q4_projected": 58547,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 69547
+  },
+  {
+    "customer_id": "C202",
+    "revenue_q3": 74458,
+    "revenue_q4_projected": 73862,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 1715
+  },
+  {
+    "customer_id": "C203",
+    "revenue_q3": 23566,
+    "revenue_q4_projected": 40923,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 10075
+  },
+  {
+    "customer_id": "C204",
+    "revenue_q3": 58937,
+    "revenue_q4_projected": 53094,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 5803
+  },
+  {
+    "customer_id": "C205",
+    "revenue_q3": 69515,
+    "revenue_q4_projected": 65939,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 144598
+  },
+  {
+    "customer_id": "C206",
+    "revenue_q3": 72568,
+    "revenue_q4_projected": 91599,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 27038
+  },
+  {
+    "customer_id": "C207",
+    "revenue_q3": 92162,
+    "revenue_q4_projected": 102046,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 219018
+  },
+  {
+    "customer_id": "C208",
+    "revenue_q3": 58285,
+    "revenue_q4_projected": 57997,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 27078
+  },
+  {
+    "customer_id": "C209",
+    "revenue_q3": 95737,
+    "revenue_q4_projected": 103522,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 8542
+  },
+  {
+    "customer_id": "C210",
+    "revenue_q3": 69079,
+    "revenue_q4_projected": 84294,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 8505
+  },
+  {
+    "customer_id": "C211",
+    "revenue_q3": 23040,
+    "revenue_q4_projected": 33879,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 14947
+  },
+  {
+    "customer_id": "C212",
+    "revenue_q3": 46227,
+    "revenue_q4_projected": 64263,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 33408
+  },
+  {
+    "customer_id": "C213",
+    "revenue_q3": 27038,
+    "revenue_q4_projected": 21480,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 818
+  },
+  {
+    "customer_id": "C214",
+    "revenue_q3": 44108,
+    "revenue_q4_projected": 56011,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 17683
+  },
+  {
+    "customer_id": "C215",
+    "revenue_q3": 76374,
+    "revenue_q4_projected": 73937,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 2327
+  },
+  {
+    "customer_id": "C216",
+    "revenue_q3": 33118,
+    "revenue_q4_projected": 46144,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 6508
+  },
+  {
+    "customer_id": "C217",
+    "revenue_q3": 74422,
+    "revenue_q4_projected": 74358,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 43242
+  },
+  {
+    "customer_id": "C218",
+    "revenue_q3": 93560,
+    "revenue_q4_projected": 110512,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 10330
+  },
+  {
+    "customer_id": "C219",
+    "revenue_q3": 83190,
+    "revenue_q4_projected": 84361,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 15689
+  },
+  {
+    "customer_id": "C220",
+    "revenue_q3": 24485,
+    "revenue_q4_projected": 36257,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 6582
+  },
+  {
+    "customer_id": "C221",
+    "revenue_q3": 53701,
+    "revenue_q4_projected": 63174,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 17574
+  },
+  {
+    "customer_id": "C222",
+    "revenue_q3": 97593,
+    "revenue_q4_projected": 105100,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 224732
+  },
+  {
+    "customer_id": "C223",
+    "revenue_q3": 48788,
+    "revenue_q4_projected": 62117,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 17035
+  },
+  {
+    "customer_id": "C224",
+    "revenue_q3": 83456,
+    "revenue_q4_projected": 87080,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 7231
+  },
+  {
+    "customer_id": "C225",
+    "revenue_q3": 98289,
+    "revenue_q4_projected": 88479,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 60105
+  },
+  {
+    "customer_id": "C226",
+    "revenue_q3": 23576,
+    "revenue_q4_projected": 28648,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 61233
+  },
+  {
+    "customer_id": "C227",
+    "revenue_q3": 34721,
+    "revenue_q4_projected": 44304,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 14479
+  },
+  {
+    "customer_id": "C228",
+    "revenue_q3": 44871,
+    "revenue_q4_projected": 62017,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 37256
+  },
+  {
+    "customer_id": "C229",
+    "revenue_q3": 79087,
+    "revenue_q4_projected": 84179,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 9692
+  },
+  {
+    "customer_id": "C230",
+    "revenue_q3": 102521,
+    "revenue_q4_projected": 117019,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 4968
+  },
+  {
+    "customer_id": "C231",
+    "revenue_q3": 46250,
+    "revenue_q4_projected": 40703,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 28435
+  },
+  {
+    "customer_id": "C232",
+    "revenue_q3": 99811,
+    "revenue_q4_projected": 102857,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 27908
+  },
+  {
+    "customer_id": "C233",
+    "revenue_q3": 50009,
+    "revenue_q4_projected": 51465,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 171803
+  },
+  {
+    "customer_id": "C234",
+    "revenue_q3": 36961,
+    "revenue_q4_projected": 32411,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 15572
+  },
+  {
+    "customer_id": "C235",
+    "revenue_q3": 78888,
+    "revenue_q4_projected": 93046,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 1353
+  },
+  {
+    "customer_id": "C236",
+    "revenue_q3": 50587,
+    "revenue_q4_projected": 67070,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 2305
+  },
+  {
+    "customer_id": "C237",
+    "revenue_q3": 74570,
+    "revenue_q4_projected": 78968,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 8721
+  },
+  {
+    "customer_id": "C238",
+    "revenue_q3": 61076,
+    "revenue_q4_projected": 64877,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 75709
+  },
+  {
+    "customer_id": "C239",
+    "revenue_q3": 101456,
+    "revenue_q4_projected": 115052,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 4729
+  },
+  {
+    "customer_id": "C240",
+    "revenue_q3": 41354,
+    "revenue_q4_projected": 37960,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 13058
+  },
+  {
+    "customer_id": "C241",
+    "revenue_q3": 23489,
+    "revenue_q4_projected": 31036,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 47021
+  },
+  {
+    "customer_id": "C242",
+    "revenue_q3": 40466,
+    "revenue_q4_projected": 53229,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 177291
+  },
+  {
+    "customer_id": "C243",
+    "revenue_q3": 37442,
+    "revenue_q4_projected": 54680,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 65945
+  },
+  {
+    "customer_id": "C244",
+    "revenue_q3": 20375,
+    "revenue_q4_projected": 14116,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 12646
+  },
+  {
+    "customer_id": "C245",
+    "revenue_q3": 19448,
+    "revenue_q4_projected": 27258,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 44665
+  },
+  {
+    "customer_id": "C246",
+    "revenue_q3": 83751,
+    "revenue_q4_projected": 78642,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 12598
+  },
+  {
+    "customer_id": "C247",
+    "revenue_q3": 90763,
+    "revenue_q4_projected": 96279,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 112081
+  },
+  {
+    "customer_id": "C248",
+    "revenue_q3": 47750,
+    "revenue_q4_projected": 66195,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 49421
+  },
+  {
+    "customer_id": "C249",
+    "revenue_q3": 50086,
+    "revenue_q4_projected": 60719,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 6700
+  },
+  {
+    "customer_id": "C250",
+    "revenue_q3": 105882,
+    "revenue_q4_projected": 117480,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 19241
+  },
+  {
+    "customer_id": "C251",
+    "revenue_q3": 88198,
+    "revenue_q4_projected": 90929,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 18098
+  },
+  {
+    "customer_id": "C252",
+    "revenue_q3": 72653,
+    "revenue_q4_projected": 74780,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 15812
+  },
+  {
+    "customer_id": "C253",
+    "revenue_q3": 85587,
+    "revenue_q4_projected": 94650,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 25990
+  },
+  {
+    "customer_id": "C254",
+    "revenue_q3": 95099,
+    "revenue_q4_projected": 114853,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 77370
+  },
+  {
+    "customer_id": "C255",
+    "revenue_q3": 41756,
+    "revenue_q4_projected": 54486,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 19210
+  },
+  {
+    "customer_id": "C256",
+    "revenue_q3": 33745,
+    "revenue_q4_projected": 27017,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 71585
+  },
+  {
+    "customer_id": "C257",
+    "revenue_q3": 84063,
+    "revenue_q4_projected": 88592,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 47503
+  },
+  {
+    "customer_id": "C258",
+    "revenue_q3": 54102,
+    "revenue_q4_projected": 73461,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 77935
+  },
+  {
+    "customer_id": "C259",
+    "revenue_q3": 33720,
+    "revenue_q4_projected": 30068,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 9252
+  },
+  {
+    "customer_id": "C260",
+    "revenue_q3": 61704,
+    "revenue_q4_projected": 58183,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 49368
+  },
+  {
+    "customer_id": "C261",
+    "revenue_q3": 80918,
+    "revenue_q4_projected": 88928,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 27023
+  },
+  {
+    "customer_id": "C262",
+    "revenue_q3": 21340,
+    "revenue_q4_projected": 26781,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 18173
+  },
+  {
+    "customer_id": "C263",
+    "revenue_q3": 65350,
+    "revenue_q4_projected": 71345,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 23978
+  },
+  {
+    "customer_id": "C264",
+    "revenue_q3": 99938,
+    "revenue_q4_projected": 97349,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 1131
+  },
+  {
+    "customer_id": "C265",
+    "revenue_q3": 48781,
+    "revenue_q4_projected": 65791,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 66745
+  },
+  {
+    "customer_id": "C266",
+    "revenue_q3": 21252,
+    "revenue_q4_projected": 25158,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 12864
+  },
+  {
+    "customer_id": "C267",
+    "revenue_q3": 104108,
+    "revenue_q4_projected": 110461,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 186491
+  },
+  {
+    "customer_id": "C268",
+    "revenue_q3": 80691,
+    "revenue_q4_projected": 74144,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 16905
+  },
+  {
+    "customer_id": "C269",
+    "revenue_q3": 96434,
+    "revenue_q4_projected": 106191,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 7575
+  },
+  {
+    "customer_id": "C270",
+    "revenue_q3": 107303,
+    "revenue_q4_projected": 111492,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 105280
+  },
+  {
+    "customer_id": "C271",
+    "revenue_q3": 19793,
+    "revenue_q4_projected": 14137,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 4033
+  },
+  {
+    "customer_id": "C272",
+    "revenue_q3": 21183,
+    "revenue_q4_projected": 13878,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 19432
+  },
+  {
+    "customer_id": "C273",
+    "revenue_q3": 91021,
+    "revenue_q4_projected": 103581,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 4623
+  },
+  {
+    "customer_id": "C274",
+    "revenue_q3": 92331,
+    "revenue_q4_projected": 90826,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 29577
+  },
+  {
+    "customer_id": "C275",
+    "revenue_q3": 88515,
+    "revenue_q4_projected": 80726,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 7271
+  },
+  {
+    "customer_id": "C276",
+    "revenue_q3": 47358,
+    "revenue_q4_projected": 64582,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 69461
+  },
+  {
+    "customer_id": "C277",
+    "revenue_q3": 34521,
+    "revenue_q4_projected": 38383,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 13447
+  },
+  {
+    "customer_id": "C278",
+    "revenue_q3": 80189,
+    "revenue_q4_projected": 85618,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 45135
+  },
+  {
+    "customer_id": "C279",
+    "revenue_q3": 36776,
+    "revenue_q4_projected": 31092,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 55778
+  },
+  {
+    "customer_id": "C280",
+    "revenue_q3": 89149,
+    "revenue_q4_projected": 107966,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 65877
+  },
+  {
+    "customer_id": "C281",
+    "revenue_q3": 62313,
+    "revenue_q4_projected": 54472,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 2274
+  },
+  {
+    "customer_id": "C282",
+    "revenue_q3": 52943,
+    "revenue_q4_projected": 66992,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 2236
+  },
+  {
+    "customer_id": "C283",
+    "revenue_q3": 58555,
+    "revenue_q4_projected": 68527,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 232747
+  },
+  {
+    "customer_id": "C284",
+    "revenue_q3": 57731,
+    "revenue_q4_projected": 74828,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 7622
+  },
+  {
+    "customer_id": "C285",
+    "revenue_q3": 37248,
+    "revenue_q4_projected": 28331,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 866
+  },
+  {
+    "customer_id": "C286",
+    "revenue_q3": 86340,
+    "revenue_q4_projected": 87935,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 5690
+  },
+  {
+    "customer_id": "C287",
+    "revenue_q3": 86157,
+    "revenue_q4_projected": 89358,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 37755
+  },
+  {
+    "customer_id": "C288",
+    "revenue_q3": 96526,
+    "revenue_q4_projected": 105781,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 6114
+  },
+  {
+    "customer_id": "C289",
+    "revenue_q3": 75561,
+    "revenue_q4_projected": 82058,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 9933
+  },
+  {
+    "customer_id": "C290",
+    "revenue_q3": 35631,
+    "revenue_q4_projected": 38629,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 54067
+  },
+  {
+    "customer_id": "C291",
+    "revenue_q3": 38128,
+    "revenue_q4_projected": 48316,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 200000,
+    "outstanding_balance": 30600
+  },
+  {
+    "customer_id": "C292",
+    "revenue_q3": 42180,
+    "revenue_q4_projected": 37155,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 3036
+  },
+  {
+    "customer_id": "C293",
+    "revenue_q3": 17267,
+    "revenue_q4_projected": 33713,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 7061
+  },
+  {
+    "customer_id": "C294",
+    "revenue_q3": 34387,
+    "revenue_q4_projected": 32856,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 34119
+  },
+  {
+    "customer_id": "C295",
+    "revenue_q3": 87924,
+    "revenue_q4_projected": 91952,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 7788
+  },
+  {
+    "customer_id": "C296",
+    "revenue_q3": 76848,
+    "revenue_q4_projected": 78791,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 21633
+  },
+  {
+    "customer_id": "C297",
+    "revenue_q3": 68989,
+    "revenue_q4_projected": 85400,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 121995
+  },
+  {
+    "customer_id": "C298",
+    "revenue_q3": 80739,
+    "revenue_q4_projected": 88947,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 67948
+  },
+  {
+    "customer_id": "C299",
+    "revenue_q3": 52463,
+    "revenue_q4_projected": 44955,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 24
+  },
+  {
+    "customer_id": "C300",
+    "revenue_q3": 108425,
+    "revenue_q4_projected": 111022,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 43813
+  },
+  {
+    "customer_id": "C301",
+    "revenue_q3": 81355,
+    "revenue_q4_projected": 90978,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 5148
+  },
+  {
+    "customer_id": "C302",
+    "revenue_q3": 49555,
+    "revenue_q4_projected": 66010,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 19345
+  },
+  {
+    "customer_id": "C303",
+    "revenue_q3": 25461,
+    "revenue_q4_projected": 41221,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 23381
+  },
+  {
+    "customer_id": "C304",
+    "revenue_q3": 76456,
+    "revenue_q4_projected": 80778,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 38556
+  },
+  {
+    "customer_id": "C305",
+    "revenue_q3": 12994,
+    "revenue_q4_projected": 26433,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 141463
+  },
+  {
+    "customer_id": "C306",
+    "revenue_q3": 72454,
+    "revenue_q4_projected": 78411,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 116973
+  },
+  {
+    "customer_id": "C307",
+    "revenue_q3": 33545,
+    "revenue_q4_projected": 49649,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 24023
+  },
+  {
+    "customer_id": "C308",
+    "revenue_q3": 47246,
+    "revenue_q4_projected": 51059,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 73655
+  },
+  {
+    "customer_id": "C309",
+    "revenue_q3": 54622,
+    "revenue_q4_projected": 48132,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 18364
+  },
+  {
+    "customer_id": "C310",
+    "revenue_q3": 50899,
+    "revenue_q4_projected": 56902,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 200000,
+    "outstanding_balance": 16507
+  },
+  {
+    "customer_id": "C311",
+    "revenue_q3": 38669,
+    "revenue_q4_projected": 49019,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 44928
+  },
+  {
+    "customer_id": "C312",
+    "revenue_q3": 94025,
+    "revenue_q4_projected": 95596,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 129471
+  },
+  {
+    "customer_id": "C313",
+    "revenue_q3": 64866,
+    "revenue_q4_projected": 68796,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 11454
+  },
+  {
+    "customer_id": "C314",
+    "revenue_q3": 43026,
+    "revenue_q4_projected": 42712,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 33974
+  },
+  {
+    "customer_id": "C315",
+    "revenue_q3": 88828,
+    "revenue_q4_projected": 92846,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 63140
+  },
+  {
+    "customer_id": "C316",
+    "revenue_q3": 84913,
+    "revenue_q4_projected": 94880,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 74716
+  },
+  {
+    "customer_id": "C317",
+    "revenue_q3": 47656,
+    "revenue_q4_projected": 50242,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 55413
+  },
+  {
+    "customer_id": "C318",
+    "revenue_q3": 47102,
+    "revenue_q4_projected": 50767,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 13675
+  },
+  {
+    "customer_id": "C319",
+    "revenue_q3": 56681,
+    "revenue_q4_projected": 65011,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 4444
+  },
+  {
+    "customer_id": "C320",
+    "revenue_q3": 75066,
+    "revenue_q4_projected": 68347,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 34605
+  },
+  {
+    "customer_id": "C321",
+    "revenue_q3": 37967,
+    "revenue_q4_projected": 48691,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 46765
+  },
+  {
+    "customer_id": "C322",
+    "revenue_q3": 42952,
+    "revenue_q4_projected": 61245,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 22908
+  },
+  {
+    "customer_id": "C323",
+    "revenue_q3": 57061,
+    "revenue_q4_projected": 69761,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 12513
+  },
+  {
+    "customer_id": "C324",
+    "revenue_q3": 76370,
+    "revenue_q4_projected": 84597,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 8462
+  },
+  {
+    "customer_id": "C325",
+    "revenue_q3": 90587,
+    "revenue_q4_projected": 90817,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 11286
+  },
+  {
+    "customer_id": "C326",
+    "revenue_q3": 78253,
+    "revenue_q4_projected": 71098,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 3342
+  },
+  {
+    "customer_id": "C327",
+    "revenue_q3": 44575,
+    "revenue_q4_projected": 35545,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 27178
+  },
+  {
+    "customer_id": "C328",
+    "revenue_q3": 104183,
+    "revenue_q4_projected": 105082,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 4680
+  },
+  {
+    "customer_id": "C329",
+    "revenue_q3": 49105,
+    "revenue_q4_projected": 60981,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 17947
+  },
+  {
+    "customer_id": "C330",
+    "revenue_q3": 42817,
+    "revenue_q4_projected": 37328,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 27822
+  },
+  {
+    "customer_id": "C331",
+    "revenue_q3": 28095,
+    "revenue_q4_projected": 36014,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 150472
+  },
+  {
+    "customer_id": "C332",
+    "revenue_q3": 28133,
+    "revenue_q4_projected": 28630,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 45179
+  },
+  {
+    "customer_id": "C333",
+    "revenue_q3": 77096,
+    "revenue_q4_projected": 74855,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 19696
+  },
+  {
+    "customer_id": "C334",
+    "revenue_q3": 88715,
+    "revenue_q4_projected": 99134,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 60711
+  },
+  {
+    "customer_id": "C335",
+    "revenue_q3": 58854,
+    "revenue_q4_projected": 75781,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 30120
+  },
+  {
+    "customer_id": "C336",
+    "revenue_q3": 80008,
+    "revenue_q4_projected": 75658,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 145545
+  },
+  {
+    "customer_id": "C337",
+    "revenue_q3": 26532,
+    "revenue_q4_projected": 44418,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 15538
+  },
+  {
+    "customer_id": "C338",
+    "revenue_q3": 55883,
+    "revenue_q4_projected": 66572,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 10505
+  },
+  {
+    "customer_id": "C339",
+    "revenue_q3": 45391,
+    "revenue_q4_projected": 63110,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 3569
+  },
+  {
+    "customer_id": "C340",
+    "revenue_q3": 103650,
+    "revenue_q4_projected": 105795,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 7879
+  },
+  {
+    "customer_id": "C341",
+    "revenue_q3": 69675,
+    "revenue_q4_projected": 66386,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 7765
+  },
+  {
+    "customer_id": "C342",
+    "revenue_q3": 41799,
+    "revenue_q4_projected": 53561,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 9861
+  },
+  {
+    "customer_id": "C343",
+    "revenue_q3": 40457,
+    "revenue_q4_projected": 57537,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 4745
+  },
+  {
+    "customer_id": "C344",
+    "revenue_q3": 22179,
+    "revenue_q4_projected": 27953,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 66191
+  },
+  {
+    "customer_id": "C345",
+    "revenue_q3": 28992,
+    "revenue_q4_projected": 34687,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 21792
+  },
+  {
+    "customer_id": "C346",
+    "revenue_q3": 82913,
+    "revenue_q4_projected": 95046,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 19564
+  },
+  {
+    "customer_id": "C347",
+    "revenue_q3": 98898,
+    "revenue_q4_projected": 91110,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 17481
+  },
+  {
+    "customer_id": "C348",
+    "revenue_q3": 19802,
+    "revenue_q4_projected": 13609,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 42432
+  },
+  {
+    "customer_id": "C349",
+    "revenue_q3": 19674,
+    "revenue_q4_projected": 37007,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 3298
+  },
+  {
+    "customer_id": "C350",
+    "revenue_q3": 97359,
+    "revenue_q4_projected": 87624,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 6242
+  },
+  {
+    "customer_id": "C351",
+    "revenue_q3": 83111,
+    "revenue_q4_projected": 81488,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 6566
+  },
+  {
+    "customer_id": "C352",
+    "revenue_q3": 64213,
+    "revenue_q4_projected": 73730,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 12596
+  },
+  {
+    "customer_id": "C353",
+    "revenue_q3": 83929,
+    "revenue_q4_projected": 99384,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 92185
+  },
+  {
+    "customer_id": "C354",
+    "revenue_q3": 93421,
+    "revenue_q4_projected": 99401,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 44666
+  },
+  {
+    "customer_id": "C355",
+    "revenue_q3": 33645,
+    "revenue_q4_projected": 28540,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 8870
+  },
+  {
+    "customer_id": "C356",
+    "revenue_q3": 97995,
+    "revenue_q4_projected": 109218,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 1874
+  },
+  {
+    "customer_id": "C357",
+    "revenue_q3": 78881,
+    "revenue_q4_projected": 88374,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 42272
+  },
+  {
+    "customer_id": "C358",
+    "revenue_q3": 14868,
+    "revenue_q4_projected": 31476,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 18543
+  },
+  {
+    "customer_id": "C359",
+    "revenue_q3": 40597,
+    "revenue_q4_projected": 46513,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 3054
+  },
+  {
+    "customer_id": "C360",
+    "revenue_q3": 63502,
+    "revenue_q4_projected": 67600,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 15701
+  },
+  {
+    "customer_id": "C361",
+    "revenue_q3": 89711,
+    "revenue_q4_projected": 94734,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 87996
+  },
+  {
+    "customer_id": "C362",
+    "revenue_q3": 44273,
+    "revenue_q4_projected": 41601,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 11820
+  },
+  {
+    "customer_id": "C363",
+    "revenue_q3": 105379,
+    "revenue_q4_projected": 96049,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 17398
+  },
+  {
+    "customer_id": "C364",
+    "revenue_q3": 38647,
+    "revenue_q4_projected": 43974,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 44104
+  },
+  {
+    "customer_id": "C365",
+    "revenue_q3": 94661,
+    "revenue_q4_projected": 113970,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 64893
+  },
+  {
+    "customer_id": "C366",
+    "revenue_q3": 75801,
+    "revenue_q4_projected": 80523,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 7514
+  },
+  {
+    "customer_id": "C367",
+    "revenue_q3": 72322,
+    "revenue_q4_projected": 92107,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 13569
+  },
+  {
+    "customer_id": "C368",
+    "revenue_q3": 27187,
+    "revenue_q4_projected": 22075,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 45901
+  },
+  {
+    "customer_id": "C369",
+    "revenue_q3": 43705,
+    "revenue_q4_projected": 38213,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 19945
+  },
+  {
+    "customer_id": "C370",
+    "revenue_q3": 42567,
+    "revenue_q4_projected": 42453,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 36502
+  },
+  {
+    "customer_id": "C371",
+    "revenue_q3": 53228,
+    "revenue_q4_projected": 65153,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 35266
+  },
+  {
+    "customer_id": "C372",
+    "revenue_q3": 27616,
+    "revenue_q4_projected": 35247,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 66758
+  },
+  {
+    "customer_id": "C373",
+    "revenue_q3": 42053,
+    "revenue_q4_projected": 60644,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 9221
+  },
+  {
+    "customer_id": "C374",
+    "revenue_q3": 62161,
+    "revenue_q4_projected": 62141,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 42997
+  },
+  {
+    "customer_id": "C375",
+    "revenue_q3": 100457,
+    "revenue_q4_projected": 111134,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 27987
+  },
+  {
+    "customer_id": "C376",
+    "revenue_q3": 82927,
+    "revenue_q4_projected": 92515,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 27459
+  },
+  {
+    "customer_id": "C377",
+    "revenue_q3": 75867,
+    "revenue_q4_projected": 75296,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 10046
+  },
+  {
+    "customer_id": "C378",
+    "revenue_q3": 83749,
+    "revenue_q4_projected": 85347,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 9290
+  },
+  {
+    "customer_id": "C379",
+    "revenue_q3": 72894,
+    "revenue_q4_projected": 81251,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 80897
+  },
+  {
+    "customer_id": "C380",
+    "revenue_q3": 31733,
+    "revenue_q4_projected": 41547,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 200000,
+    "outstanding_balance": 2964
+  },
+  {
+    "customer_id": "C381",
+    "revenue_q3": 76631,
+    "revenue_q4_projected": 73336,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 15507
+  },
+  {
+    "customer_id": "C382",
+    "revenue_q3": 90409,
+    "revenue_q4_projected": 82947,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 2004
+  },
+  {
+    "customer_id": "C383",
+    "revenue_q3": 92009,
+    "revenue_q4_projected": 88470,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 22048
+  },
+  {
+    "customer_id": "C384",
+    "revenue_q3": 72523,
+    "revenue_q4_projected": 79046,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 34751
+  },
+  {
+    "customer_id": "C385",
+    "revenue_q3": 21272,
+    "revenue_q4_projected": 17955,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 10353
+  },
+  {
+    "customer_id": "C386",
+    "revenue_q3": 41861,
+    "revenue_q4_projected": 45589,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 300000,
+    "outstanding_balance": 22994
+  },
+  {
+    "customer_id": "C387",
+    "revenue_q3": 15153,
+    "revenue_q4_projected": 8099,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 8038
+  },
+  {
+    "customer_id": "C388",
+    "revenue_q3": 74896,
+    "revenue_q4_projected": 74220,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 5316
+  },
+  {
+    "customer_id": "C389",
+    "revenue_q3": 40247,
+    "revenue_q4_projected": 44994,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 5971
+  },
+  {
+    "customer_id": "C390",
+    "revenue_q3": 32115,
+    "revenue_q4_projected": 41613,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 19363
+  },
+  {
+    "customer_id": "C391",
+    "revenue_q3": 34331,
+    "revenue_q4_projected": 48575,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 6536
+  },
+  {
+    "customer_id": "C392",
+    "revenue_q3": 95479,
+    "revenue_q4_projected": 91518,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 10434
+  },
+  {
+    "customer_id": "C393",
+    "revenue_q3": 101325,
+    "revenue_q4_projected": 99366,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 7514
+  },
+  {
+    "customer_id": "C394",
+    "revenue_q3": 58481,
+    "revenue_q4_projected": 56754,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 89125
+  },
+  {
+    "customer_id": "C395",
+    "revenue_q3": 85243,
+    "revenue_q4_projected": 103348,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 4435
+  },
+  {
+    "customer_id": "C396",
+    "revenue_q3": 48584,
+    "revenue_q4_projected": 40016,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 101399
+  },
+  {
+    "customer_id": "C397",
+    "revenue_q3": 60556,
+    "revenue_q4_projected": 52445,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 76223
+  },
+  {
+    "customer_id": "C398",
+    "revenue_q3": 95837,
+    "revenue_q4_projected": 91121,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 3219
+  },
+  {
+    "customer_id": "C399",
+    "revenue_q3": 77767,
+    "revenue_q4_projected": 94023,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 1476
+  },
+  {
+    "customer_id": "C400",
+    "revenue_q3": 80094,
+    "revenue_q4_projected": 72827,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 8216
+  },
+  {
+    "customer_id": "C401",
+    "revenue_q3": 105430,
+    "revenue_q4_projected": 118222,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 28859
+  },
+  {
+    "customer_id": "C402",
+    "revenue_q3": 25462,
+    "revenue_q4_projected": 37948,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 15251
+  },
+  {
+    "customer_id": "C403",
+    "revenue_q3": 102492,
+    "revenue_q4_projected": 112484,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 42964
+  },
+  {
+    "customer_id": "C404",
+    "revenue_q3": 36206,
+    "revenue_q4_projected": 31695,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 104838
+  },
+  {
+    "customer_id": "C405",
+    "revenue_q3": 48281,
+    "revenue_q4_projected": 38356,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 200000,
+    "outstanding_balance": 17264
+  },
+  {
+    "customer_id": "C406",
+    "revenue_q3": 20641,
+    "revenue_q4_projected": 22672,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 111700
+  },
+  {
+    "customer_id": "C407",
+    "revenue_q3": 96306,
+    "revenue_q4_projected": 112236,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 22373
+  },
+  {
+    "customer_id": "C408",
+    "revenue_q3": 90730,
+    "revenue_q4_projected": 110262,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 13924
+  },
+  {
+    "customer_id": "C409",
+    "revenue_q3": 72147,
+    "revenue_q4_projected": 77822,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 42009
+  },
+  {
+    "customer_id": "C410",
+    "revenue_q3": 23830,
+    "revenue_q4_projected": 24529,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 154345
+  },
+  {
+    "customer_id": "C411",
+    "revenue_q3": 87903,
+    "revenue_q4_projected": 81903,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 16404
+  },
+  {
+    "customer_id": "C412",
+    "revenue_q3": 89107,
+    "revenue_q4_projected": 84176,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 29963
+  },
+  {
+    "customer_id": "C413",
+    "revenue_q3": 45021,
+    "revenue_q4_projected": 56942,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 750000,
+    "outstanding_balance": 56323
+  },
+  {
+    "customer_id": "C414",
+    "revenue_q3": 29869,
+    "revenue_q4_projected": 44360,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 92408
+  },
+  {
+    "customer_id": "C415",
+    "revenue_q3": 59009,
+    "revenue_q4_projected": 67862,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 750000,
+    "outstanding_balance": 5325
+  },
+  {
+    "customer_id": "C416",
+    "revenue_q3": 34876,
+    "revenue_q4_projected": 39567,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 5540
+  },
+  {
+    "customer_id": "C417",
+    "revenue_q3": 44156,
+    "revenue_q4_projected": 57154,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 21144
+  },
+  {
+    "customer_id": "C418",
+    "revenue_q3": 67409,
+    "revenue_q4_projected": 74040,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 200000,
+    "outstanding_balance": 33556
+  },
+  {
+    "customer_id": "C419",
+    "revenue_q3": 25643,
+    "revenue_q4_projected": 37903,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 100000,
+    "outstanding_balance": 9210
+  },
+  {
+    "customer_id": "C420",
+    "revenue_q3": 34472,
+    "revenue_q4_projected": 41030,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 200000,
+    "outstanding_balance": 11727
+  },
+  {
+    "customer_id": "C421",
+    "revenue_q3": 84584,
+    "revenue_q4_projected": 77538,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 48312
+  },
+  {
+    "customer_id": "C422",
+    "revenue_q3": 36059,
+    "revenue_q4_projected": 55934,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 1000000,
+    "outstanding_balance": 90390
+  },
+  {
+    "customer_id": "C423",
+    "revenue_q3": 18118,
+    "revenue_q4_projected": 28735,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 47170
+  },
+  {
+    "customer_id": "C424",
+    "revenue_q3": 109640,
+    "revenue_q4_projected": 128766,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 300000,
+    "outstanding_balance": 65730
+  },
+  {
+    "customer_id": "C425",
+    "revenue_q3": 29693,
+    "revenue_q4_projected": 23282,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 15",
+    "credit_limit": 300000,
+    "outstanding_balance": 16094
+  },
+  {
+    "customer_id": "C426",
+    "revenue_q3": 26171,
+    "revenue_q4_projected": 28330,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 10278
+  },
+  {
+    "customer_id": "C427",
+    "revenue_q3": 59929,
+    "revenue_q4_projected": 60407,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 500000,
+    "outstanding_balance": 25461
+  },
+  {
+    "customer_id": "C428",
+    "revenue_q3": 99448,
+    "revenue_q4_projected": 116072,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 22357
+  },
+  {
+    "customer_id": "C429",
+    "revenue_q3": 81030,
+    "revenue_q4_projected": 95841,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 32890
+  },
+  {
+    "customer_id": "C430",
+    "revenue_q3": 99630,
+    "revenue_q4_projected": 108066,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 9563
+  },
+  {
+    "customer_id": "C431",
+    "revenue_q3": 12661,
+    "revenue_q4_projected": 10415,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 4143
+  },
+  {
+    "customer_id": "C432",
+    "revenue_q3": 65196,
+    "revenue_q4_projected": 68886,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 750000,
+    "outstanding_balance": 16143
+  },
+  {
+    "customer_id": "C433",
+    "revenue_q3": 62874,
+    "revenue_q4_projected": 82380,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 50958
+  },
+  {
+    "customer_id": "C434",
+    "revenue_q3": 71207,
+    "revenue_q4_projected": 68550,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 48206
+  },
+  {
+    "customer_id": "C435",
+    "revenue_q3": 72973,
+    "revenue_q4_projected": 68612,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 20228
+  },
+  {
+    "customer_id": "C436",
+    "revenue_q3": 73667,
+    "revenue_q4_projected": 64589,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 100000,
+    "outstanding_balance": 6067
+  },
+  {
+    "customer_id": "C437",
+    "revenue_q3": 63227,
+    "revenue_q4_projected": 73524,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 100000,
+    "outstanding_balance": 2739
+  },
+  {
+    "customer_id": "C438",
+    "revenue_q3": 39711,
+    "revenue_q4_projected": 49280,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 60",
+    "credit_limit": 500000,
+    "outstanding_balance": 118963
+  },
+  {
+    "customer_id": "C439",
+    "revenue_q3": 60779,
+    "revenue_q4_projected": 60888,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 31840
+  },
+  {
+    "customer_id": "C440",
+    "revenue_q3": 78606,
+    "revenue_q4_projected": 93767,
+    "invoice_status": "current",
+    "payment_terms": "Net 45",
+    "credit_limit": 500000,
+    "outstanding_balance": 13210
+  },
+  {
+    "customer_id": "C441",
+    "revenue_q3": 30854,
+    "revenue_q4_projected": 26529,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 226315
+  },
+  {
+    "customer_id": "C442",
+    "revenue_q3": 86795,
+    "revenue_q4_projected": 86627,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 100000,
+    "outstanding_balance": 5229
+  },
+  {
+    "customer_id": "C443",
+    "revenue_q3": 93698,
+    "revenue_q4_projected": 93930,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 30",
+    "credit_limit": 750000,
+    "outstanding_balance": 64787
+  },
+  {
+    "customer_id": "C444",
+    "revenue_q3": 82196,
+    "revenue_q4_projected": 83900,
+    "invoice_status": "past_due",
+    "payment_terms": "Net 30",
+    "credit_limit": 300000,
+    "outstanding_balance": 70893
+  },
+  {
+    "customer_id": "C445",
+    "revenue_q3": 103423,
+    "revenue_q4_projected": 95942,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 66501
+  },
+  {
+    "customer_id": "C446",
+    "revenue_q3": 61526,
+    "revenue_q4_projected": 73699,
+    "invoice_status": "overdue",
+    "payment_terms": "Net 45",
+    "credit_limit": 1000000,
+    "outstanding_balance": 210663
+  },
+  {
+    "customer_id": "C447",
+    "revenue_q3": 88037,
+    "revenue_q4_projected": 83930,
+    "invoice_status": "current",
+    "payment_terms": "Net 15",
+    "credit_limit": 500000,
+    "outstanding_balance": 29698
+  },
+  {
+    "customer_id": "C448",
+    "revenue_q3": 45319,
+    "revenue_q4_projected": 62780,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 1000000,
+    "outstanding_balance": 75458
+  },
+  {
+    "customer_id": "C449",
+    "revenue_q3": 80802,
+    "revenue_q4_projected": 87427,
+    "invoice_status": "current",
+    "payment_terms": "Net 30",
+    "credit_limit": 200000,
+    "outstanding_balance": 1037
+  },
+  {
+    "customer_id": "C450",
+    "revenue_q3": 25181,
+    "revenue_q4_projected": 44268,
+    "invoice_status": "current",
+    "payment_terms": "Net 60",
+    "credit_limit": 1000000,
+    "outstanding_balance": 95218
+  }
+]

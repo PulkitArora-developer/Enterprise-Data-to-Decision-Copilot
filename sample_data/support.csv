@@ -1,0 +1,701 @@
+ticket_id,customer_id,priority,status,created_date,resolution_time_hours,category
+T001,C079,Low,Open,2025-07-14,,Integration
+T002,C058,Medium,Closed,2025-06-17,52,Training
+T003,C175,Medium,Closed,2025-07-24,45,Feature Request
+T004,C619,High,Resolved,2025-08-25,17,Bug Report
+T005,C043,Low,In Progress,2025-09-10,,Feature Request
+T006,C232,High,Open,2025-09-09,,Performance
+T007,C569,Critical,In Progress,2025-03-30,,Technical
+T008,C329,Medium,Closed,2025-06-11,40,Security
+T009,C197,Critical,Resolved,2025-06-27,15,Integration
+T010,C326,Critical,Closed,2025-08-10,10,Billing
+T011,C619,Critical,Closed,2025-08-02,21,Integration
+T012,C503,Critical,Closed,2025-05-23,6,Training
+T013,C381,Critical,Open,2025-08-12,,Billing
+T014,C648,Critical,Closed,2025-03-30,24,Security
+T015,C252,High,Open,2025-08-15,,Technical
+T016,C095,Critical,Open,2025-05-20,,Training
+T017,C101,Low,Closed,2025-07-08,114,Training
+T018,C552,Medium,Closed,2025-09-11,28,Technical
+T019,C451,High,In Progress,2025-06-24,,Training
+T020,C267,High,In Progress,2025-08-05,,Technical
+T021,C182,High,Resolved,2025-07-23,38,Outage
+T022,C299,Low,Open,2025-06-19,,Outage
+T023,C531,Medium,Open,2025-05-09,,Integration
+T024,C378,Low,Closed,2025-05-21,132,Billing
+T025,C470,High,In Progress,2025-07-02,,Outage
+T026,C391,High,Resolved,2025-04-17,16,Configuration
+T027,C528,Medium,In Progress,2025-08-30,,Outage
+T028,C136,High,In Progress,2025-05-01,,Training
+T029,C349,Low,Closed,2025-04-12,147,Training
+T030,C571,Critical,Closed,2025-06-01,19,Security
+T031,C209,Critical,Closed,2025-05-01,10,Security
+T032,C413,High,Closed,2025-04-22,4,Feature Request
+T033,C299,High,Closed,2025-04-25,38,Integration
+T034,C294,High,In Progress,2025-08-26,,Technical
+T035,C189,Medium,Closed,2025-03-28,43,Bug Report
+T036,C144,Low,Open,2025-05-20,,Security
+T037,C436,Medium,Resolved,2025-09-10,29,Security
+T038,C542,Low,Resolved,2025-08-05,97,Performance
+T039,C630,Critical,Resolved,2025-03-30,7,Feature Request
+T040,C462,Low,In Progress,2025-05-19,,Training
+T041,C091,Medium,In Progress,2025-05-08,,Integration
+T042,C189,Critical,Closed,2025-05-01,7,Training
+T043,C260,Medium,Closed,2025-09-11,67,Outage
+T044,C287,High,Closed,2025-07-12,47,Outage
+T045,C333,Critical,Open,2025-04-12,,Technical
+T046,C508,Medium,Open,2025-07-12,,Outage
+T047,C084,Medium,Open,2025-04-23,,Configuration
+T048,C646,Medium,Open,2025-06-08,,Feature Request
+T049,C165,High,Resolved,2025-05-27,16,Technical
+T050,C199,Medium,Closed,2025-06-28,70,Feature Request
+T051,C645,High,Open,2025-09-02,,Feature Request
+T052,C240,Low,Open,2025-09-12,,Outage
+T053,C320,Medium,Closed,2025-09-15,16,Outage
+T054,C549,Medium,Resolved,2025-07-30,25,Configuration
+T055,C126,High,Closed,2025-03-22,6,Bug Report
+T056,C638,Critical,Resolved,2025-05-15,8,Training
+T057,C426,Critical,In Progress,2025-07-13,,Outage
+T058,C577,High,In Progress,2025-04-06,,Integration
+T059,C246,Medium,In Progress,2025-09-14,,Bug Report
+T060,C246,Medium,Open,2025-07-29,,Configuration
+T061,C464,Medium,Resolved,2025-09-11,70,Configuration
+T062,C049,Medium,Closed,2025-06-10,23,Outage
+T063,C277,Critical,Open,2025-07-01,,Technical
+T064,C320,Medium,Open,2025-04-17,,Security
+T065,C504,Critical,Closed,2025-08-05,19,Technical
+T066,C139,Critical,In Progress,2025-04-12,,Billing
+T067,C364,Critical,In Progress,2025-03-30,,Integration
+T068,C288,High,Closed,2025-04-29,48,Configuration
+T069,C599,Medium,Open,2025-05-11,,Outage
+T070,C378,Low,Open,2025-04-30,,Feature Request
+T071,C312,Critical,Open,2025-08-21,,Training
+T072,C146,Low,Closed,2025-07-21,166,Security
+T073,C331,Low,Closed,2025-05-06,140,Security
+T074,C147,Medium,In Progress,2025-07-31,,Billing
+T075,C331,Critical,In Progress,2025-05-14,,Configuration
+T076,C575,Medium,Resolved,2025-05-26,20,Integration
+T077,C587,Medium,Open,2025-08-01,,Security
+T078,C178,High,In Progress,2025-03-22,,Feature Request
+T079,C038,High,Closed,2025-08-29,7,Configuration
+T080,C294,Low,Resolved,2025-06-07,148,Security
+T081,C282,Medium,Open,2025-07-17,,Security
+T082,C376,Medium,Resolved,2025-03-30,57,Security
+T083,C466,High,Resolved,2025-09-05,22,Training
+T084,C269,Low,Resolved,2025-05-15,98,Bug Report
+T085,C451,Low,In Progress,2025-06-03,,Billing
+T086,C242,Critical,Open,2025-08-06,,Technical
+T087,C377,Low,In Progress,2025-05-04,,Performance
+T088,C424,High,Resolved,2025-07-19,10,Technical
+T089,C078,Medium,Resolved,2025-05-18,23,Feature Request
+T090,C437,High,In Progress,2025-03-26,,Billing
+T091,C059,Critical,Resolved,2025-06-06,23,Outage
+T092,C304,Low,In Progress,2025-07-17,,Bug Report
+T093,C232,High,Resolved,2025-08-01,20,Security
+T094,C443,Medium,Resolved,2025-05-13,13,Training
+T095,C490,Low,In Progress,2025-06-29,,Outage
+T096,C562,Medium,Resolved,2025-05-09,42,Integration
+T097,C375,High,In Progress,2025-08-31,,Training
+T098,C184,Medium,Resolved,2025-05-21,25,Feature Request
+T099,C613,Low,Open,2025-07-12,,Feature Request
+T100,C270,Low,Open,2025-04-27,,Feature Request
+T101,C253,High,Resolved,2025-04-19,11,Feature Request
+T102,C307,High,Closed,2025-05-30,44,Billing
+T103,C375,Low,Resolved,2025-04-05,39,Technical
+T104,C572,Medium,Resolved,2025-05-10,14,Billing
+T105,C269,Medium,Resolved,2025-06-16,29,Outage
+T106,C302,Critical,Closed,2025-07-09,10,Integration
+T107,C609,Critical,Resolved,2025-05-29,4,Integration
+T108,C395,Critical,Closed,2025-04-09,8,Integration
+T109,C536,High,In Progress,2025-04-18,,Outage
+T110,C329,Low,Closed,2025-08-11,96,Training
+T111,C272,Low,Resolved,2025-04-18,165,Technical
+T112,C642,Medium,Open,2025-04-25,,Security
+T113,C572,Critical,Open,2025-07-17,,Bug Report
+T114,C155,Critical,Closed,2025-09-04,22,Training
+T115,C582,Medium,Closed,2025-06-07,49,Configuration
+T116,C221,Low,In Progress,2025-06-06,,Configuration
+T117,C297,Low,Resolved,2025-08-13,92,Outage
+T118,C241,Medium,In Progress,2025-06-11,,Performance
+T119,C493,Low,Closed,2025-06-16,167,Configuration
+T120,C398,High,Resolved,2025-03-28,27,Integration
+T121,C072,High,Resolved,2025-07-27,37,Billing
+T122,C003,Low,Open,2025-08-18,,Feature Request
+T123,C290,Critical,Resolved,2025-05-12,17,Bug Report
+T124,C416,High,Open,2025-03-24,,Configuration
+T125,C607,Critical,Closed,2025-08-16,21,Integration
+T126,C626,Low,Resolved,2025-09-13,94,Configuration
+T127,C262,Medium,Open,2025-06-09,,Technical
+T128,C113,Low,In Progress,2025-06-15,,Security
+T129,C571,Critical,Open,2025-07-28,,Outage
+T130,C111,Low,Open,2025-07-31,,Training
+T131,C463,Critical,In Progress,2025-07-24,,Outage
+T132,C255,High,Resolved,2025-03-30,27,Billing
+T133,C422,Low,Resolved,2025-04-27,161,Bug Report
+T134,C492,Critical,Closed,2025-09-12,18,Feature Request
+T135,C499,High,In Progress,2025-08-14,,Billing
+T136,C057,Medium,Resolved,2025-05-10,60,Training
+T137,C558,High,Closed,2025-08-05,20,Outage
+T138,C170,Critical,Open,2025-09-10,,Integration
+T139,C187,Critical,In Progress,2025-08-18,,Security
+T140,C318,High,Open,2025-03-22,,Configuration
+T141,C640,Low,Closed,2025-04-11,23,Training
+T142,C578,High,Closed,2025-04-04,7,Bug Report
+T143,C551,Low,Resolved,2025-08-11,101,Feature Request
+T144,C370,Critical,Closed,2025-04-24,11,Integration
+T145,C156,Critical,Open,2025-05-28,,Training
+T146,C123,Low,In Progress,2025-07-30,,Feature Request
+T147,C266,High,Closed,2025-07-23,41,Billing
+T148,C290,Medium,In Progress,2025-06-11,,Feature Request
+T149,C142,Critical,Closed,2025-07-02,18,Security
+T150,C312,Low,In Progress,2025-07-13,,Feature Request
+T151,C195,Low,Resolved,2025-07-09,63,Technical
+T152,C437,Medium,Resolved,2025-06-06,20,Feature Request
+T153,C392,Medium,Open,2025-06-14,,Training
+T154,C536,Critical,Resolved,2025-09-06,19,Security
+T155,C627,Low,Closed,2025-06-29,163,Integration
+T156,C152,Critical,In Progress,2025-06-05,,Performance
+T157,C633,Critical,In Progress,2025-06-07,,Billing
+T158,C060,High,Resolved,2025-05-09,9,Outage
+T159,C453,Medium,Open,2025-04-23,,Integration
+T160,C051,Critical,Resolved,2025-03-30,18,Training
+T161,C341,Medium,In Progress,2025-04-15,,Performance
+T162,C001,Low,Closed,2025-06-08,105,Configuration
+T163,C520,High,Closed,2025-06-20,27,Technical
+T164,C153,High,In Progress,2025-06-22,,Training
+T165,C276,Medium,Resolved,2025-04-14,72,Bug Report
+T166,C082,Critical,Open,2025-06-30,,Training
+T167,C010,Critical,In Progress,2025-08-18,,Training
+T168,C540,Critical,In Progress,2025-05-03,,Bug Report
+T169,C412,Medium,Open,2025-05-05,,Outage
+T170,C585,Low,Resolved,2025-07-14,145,Technical
+T171,C273,High,In Progress,2025-07-15,,Feature Request
+T172,C615,Medium,Open,2025-04-11,,Integration
+T173,C532,Medium,Resolved,2025-07-21,44,Feature Request
+T174,C061,Critical,Resolved,2025-04-18,13,Integration
+T175,C254,Medium,Resolved,2025-04-12,10,Bug Report
+T176,C635,Medium,Open,2025-07-28,,Bug Report
+T177,C180,Critical,In Progress,2025-06-29,,Feature Request
+T178,C411,High,Open,2025-08-04,,Billing
+T179,C345,Low,Resolved,2025-04-24,128,Technical
+T180,C606,Low,Closed,2025-07-27,49,Training
+T181,C408,Low,Closed,2025-08-06,123,Bug Report
+T182,C257,Critical,Open,2025-05-08,,Integration
+T183,C637,High,Open,2025-03-30,,Feature Request
+T184,C209,High,In Progress,2025-05-13,,Performance
+T185,C068,Low,Open,2025-06-03,,Training
+T186,C333,High,Resolved,2025-05-02,39,Feature Request
+T187,C586,Critical,In Progress,2025-03-31,,Outage
+T188,C525,High,Open,2025-06-04,,Billing
+T189,C134,Low,Closed,2025-08-30,24,Integration
+T190,C352,High,Open,2025-06-30,,Outage
+T191,C421,Critical,Closed,2025-07-16,15,Training
+T192,C093,Critical,Resolved,2025-05-30,9,Performance
+T193,C215,Low,Resolved,2025-05-10,62,Integration
+T194,C474,Medium,Closed,2025-08-08,57,Billing
+T195,C389,Medium,Closed,2025-07-09,17,Security
+T196,C163,High,In Progress,2025-09-14,,Training
+T197,C017,Critical,In Progress,2025-03-26,,Configuration
+T198,C092,Medium,In Progress,2025-08-08,,Security
+T199,C629,High,Closed,2025-04-09,14,Bug Report
+T200,C214,Critical,Closed,2025-05-21,2,Bug Report
+T201,C190,Critical,Open,2025-03-31,,Integration
+T202,C542,High,Resolved,2025-09-02,38,Bug Report
+T203,C425,Low,Open,2025-06-17,,Training
+T204,C584,Low,Open,2025-04-04,,Bug Report
+T205,C073,Medium,Closed,2025-04-10,25,Feature Request
+T206,C548,Medium,In Progress,2025-03-31,,Configuration
+T207,C550,Critical,In Progress,2025-08-08,,Technical
+T208,C380,Critical,In Progress,2025-04-15,,Performance
+T209,C299,Critical,Closed,2025-04-12,22,Security
+T210,C223,High,In Progress,2025-04-17,,Bug Report
+T211,C604,Low,Open,2025-03-22,,Training
+T212,C558,Critical,In Progress,2025-08-01,,Outage
+T213,C569,Critical,Closed,2025-06-04,11,Outage
+T214,C338,Low,Open,2025-05-23,,Security
+T215,C471,Medium,Closed,2025-03-27,21,Performance
+T216,C580,Medium,Open,2025-06-27,,Billing
+T217,C578,Low,Open,2025-06-03,,Training
+T218,C362,Medium,Resolved,2025-08-24,47,Security
+T219,C413,High,Open,2025-07-18,,Bug Report
+T220,C056,Critical,Resolved,2025-06-23,10,Technical
+T221,C010,Critical,Resolved,2025-07-26,21,Performance
+T222,C346,Low,In Progress,2025-06-30,,Integration
+T223,C236,Medium,Closed,2025-06-07,23,Configuration
+T224,C053,Low,Closed,2025-05-08,66,Bug Report
+T225,C424,High,Closed,2025-04-26,24,Outage
+T226,C591,Low,Resolved,2025-08-02,111,Training
+T227,C352,Medium,In Progress,2025-06-08,,Performance
+T228,C402,Critical,In Progress,2025-08-27,,Billing
+T229,C522,Critical,Resolved,2025-09-17,5,Technical
+T230,C291,High,Open,2025-09-10,,Bug Report
+T231,C445,Medium,Open,2025-08-11,,Feature Request
+T232,C316,Critical,In Progress,2025-04-11,,Integration
+T233,C510,High,Open,2025-06-08,,Bug Report
+T234,C266,High,Open,2025-08-04,,Bug Report
+T235,C270,Low,Open,2025-04-07,,Performance
+T236,C548,Critical,Resolved,2025-06-22,2,Technical
+T237,C346,High,Resolved,2025-09-12,37,Technical
+T238,C386,Medium,In Progress,2025-07-13,,Integration
+T239,C178,Critical,Closed,2025-08-09,6,Security
+T240,C400,Medium,Open,2025-09-06,,Security
+T241,C224,Low,Resolved,2025-04-22,28,Security
+T242,C367,Low,Open,2025-09-17,,Configuration
+T243,C155,Medium,Closed,2025-08-12,70,Performance
+T244,C094,Low,Open,2025-05-24,,Security
+T245,C598,Medium,Closed,2025-07-11,58,Feature Request
+T246,C320,Low,Open,2025-09-05,,Bug Report
+T247,C364,Medium,In Progress,2025-06-04,,Feature Request
+T248,C315,Medium,Open,2025-09-17,,Billing
+T249,C259,Low,Resolved,2025-06-24,164,Security
+T250,C279,Medium,Closed,2025-07-03,67,Billing
+T251,C598,High,In Progress,2025-09-17,,Performance
+T252,C403,Critical,Closed,2025-05-05,17,Outage
+T253,C288,High,Resolved,2025-08-29,19,Security
+T254,C145,Medium,Resolved,2025-08-10,67,Configuration
+T255,C503,Low,Resolved,2025-08-17,121,Security
+T256,C551,Low,Resolved,2025-05-02,28,Security
+T257,C343,High,In Progress,2025-07-26,,Bug Report
+T258,C514,Medium,Open,2025-05-30,,Bug Report
+T259,C388,High,Closed,2025-06-23,9,Training
+T260,C313,High,In Progress,2025-06-17,,Bug Report
+T261,C462,High,In Progress,2025-09-09,,Performance
+T262,C169,Medium,In Progress,2025-03-26,,Billing
+T263,C537,Critical,Closed,2025-04-25,14,Configuration
+T264,C004,Critical,Open,2025-05-23,,Integration
+T265,C518,Medium,Resolved,2025-07-17,58,Technical
+T266,C043,High,Resolved,2025-05-11,12,Outage
+T267,C207,High,Closed,2025-08-10,47,Integration
+T268,C273,Medium,Open,2025-09-11,,Training
+T269,C027,Critical,Closed,2025-07-01,14,Security
+T270,C628,Medium,Open,2025-05-24,,Configuration
+T271,C206,Critical,In Progress,2025-04-28,,Training
+T272,C314,Low,In Progress,2025-05-31,,Integration
+T273,C411,Low,Resolved,2025-06-28,55,Technical
+T274,C216,Low,Closed,2025-07-05,88,Billing
+T275,C460,Critical,Closed,2025-06-06,3,Performance
+T276,C274,High,In Progress,2025-09-04,,Configuration
+T277,C156,Low,Resolved,2025-05-23,93,Performance
+T278,C221,Medium,In Progress,2025-05-18,,Billing
+T279,C172,Medium,In Progress,2025-04-02,,Performance
+T280,C140,Critical,Open,2025-07-21,,Bug Report
+T281,C196,Low,Closed,2025-09-05,105,Billing
+T282,C435,Medium,Resolved,2025-05-11,49,Performance
+T283,C075,High,Resolved,2025-05-19,33,Feature Request
+T284,C559,High,Open,2025-06-18,,Performance
+T285,C618,Low,Closed,2025-06-22,168,Configuration
+T286,C132,High,Closed,2025-07-18,12,Outage
+T287,C141,Low,Open,2025-06-11,,Performance
+T288,C411,Medium,In Progress,2025-04-18,,Integration
+T289,C072,Critical,Closed,2025-08-06,16,Security
+T290,C137,High,In Progress,2025-04-14,,Training
+T291,C158,Critical,In Progress,2025-09-03,,Technical
+T292,C216,Critical,Resolved,2025-07-28,12,Outage
+T293,C059,Medium,Closed,2025-09-17,29,Configuration
+T294,C353,High,Open,2025-09-02,,Billing
+T295,C488,Critical,Open,2025-03-29,,Security
+T296,C392,Medium,In Progress,2025-04-02,,Bug Report
+T297,C566,Low,In Progress,2025-07-20,,Bug Report
+T298,C638,Low,Resolved,2025-07-11,22,Configuration
+T299,C597,High,In Progress,2025-08-03,,Feature Request
+T300,C391,High,Open,2025-05-18,,Outage
+T301,C086,Medium,In Progress,2025-09-02,,Security
+T302,C641,High,Resolved,2025-07-29,42,Training
+T303,C142,Medium,Resolved,2025-04-11,34,Performance
+T304,C345,Low,In Progress,2025-04-03,,Technical
+T305,C586,Low,Open,2025-05-10,,Performance
+T306,C503,Low,Resolved,2025-08-22,132,Outage
+T307,C643,High,Closed,2025-07-04,17,Integration
+T308,C487,Medium,Closed,2025-05-21,60,Billing
+T309,C501,Low,Open,2025-05-21,,Billing
+T310,C276,Critical,Closed,2025-03-24,20,Feature Request
+T311,C078,High,Open,2025-06-01,,Configuration
+T312,C484,Low,Open,2025-09-12,,Performance
+T313,C386,High,In Progress,2025-06-05,,Bug Report
+T314,C249,Critical,Resolved,2025-07-02,3,Bug Report
+T315,C245,Critical,In Progress,2025-05-27,,Security
+T316,C619,Critical,Open,2025-07-31,,Billing
+T317,C543,Medium,Open,2025-06-20,,Feature Request
+T318,C541,Medium,In Progress,2025-04-05,,Billing
+T319,C062,Critical,Resolved,2025-06-25,21,Bug Report
+T320,C331,Low,Open,2025-08-18,,Configuration
+T321,C359,Medium,Closed,2025-05-18,39,Outage
+T322,C548,Critical,Closed,2025-06-04,7,Training
+T323,C194,Low,Resolved,2025-09-15,105,Technical
+T324,C294,Critical,Closed,2025-07-30,11,Training
+T325,C607,Low,In Progress,2025-09-11,,Configuration
+T326,C468,Critical,In Progress,2025-04-15,,Configuration
+T327,C594,High,Resolved,2025-07-17,21,Performance
+T328,C181,Critical,Open,2025-04-03,,Performance
+T329,C202,Medium,In Progress,2025-08-09,,Security
+T330,C433,High,Resolved,2025-04-12,6,Billing
+T331,C097,Medium,Closed,2025-04-08,63,Performance
+T332,C355,Medium,Closed,2025-09-14,23,Configuration
+T333,C060,Medium,Open,2025-06-10,,Integration
+T334,C457,Medium,Open,2025-08-26,,Bug Report
+T335,C093,Critical,Closed,2025-06-03,5,Technical
+T336,C241,Medium,Open,2025-09-07,,Bug Report
+T337,C056,Low,In Progress,2025-09-11,,Configuration
+T338,C564,High,Open,2025-08-24,,Feature Request
+T339,C622,Medium,In Progress,2025-04-25,,Training
+T340,C033,High,Open,2025-06-10,,Training
+T341,C585,Critical,Closed,2025-07-27,12,Security
+T342,C595,High,Resolved,2025-09-17,30,Billing
+T343,C322,Low,Open,2025-09-10,,Performance
+T344,C299,Medium,Resolved,2025-07-01,17,Performance
+T345,C325,Low,Resolved,2025-05-12,55,Configuration
+T346,C221,High,In Progress,2025-06-14,,Billing
+T347,C285,Medium,Closed,2025-07-22,44,Integration
+T348,C250,Low,Open,2025-08-08,,Outage
+T349,C275,Medium,Closed,2025-07-19,39,Outage
+T350,C159,Low,Resolved,2025-08-21,103,Configuration
+T351,C124,Critical,Open,2025-06-05,,Feature Request
+T352,C259,High,In Progress,2025-08-09,,Feature Request
+T353,C518,High,In Progress,2025-08-14,,Training
+T354,C198,High,In Progress,2025-09-04,,Bug Report
+T355,C010,High,Closed,2025-08-28,37,Configuration
+T356,C360,High,Open,2025-07-22,,Configuration
+T357,C203,High,In Progress,2025-08-22,,Security
+T358,C478,Medium,Resolved,2025-07-26,18,Bug Report
+T359,C355,High,In Progress,2025-09-17,,Integration
+T360,C203,Low,In Progress,2025-06-11,,Configuration
+T361,C159,High,In Progress,2025-03-25,,Feature Request
+T362,C644,Critical,In Progress,2025-05-01,,Training
+T363,C268,Medium,Closed,2025-03-31,33,Performance
+T364,C454,Medium,In Progress,2025-05-03,,Training
+T365,C516,Medium,Resolved,2025-08-21,36,Performance
+T366,C415,Critical,Closed,2025-06-28,9,Configuration
+T367,C309,Medium,Open,2025-09-11,,Outage
+T368,C007,High,Closed,2025-04-21,47,Configuration
+T369,C490,Medium,Closed,2025-04-29,57,Integration
+T370,C622,High,Resolved,2025-06-06,24,Bug Report
+T371,C075,High,Closed,2025-04-27,42,Bug Report
+T372,C004,Low,In Progress,2025-04-26,,Technical
+T373,C130,High,Open,2025-06-01,,Outage
+T374,C219,High,Closed,2025-03-26,40,Bug Report
+T375,C430,High,Open,2025-09-17,,Security
+T376,C324,Critical,Resolved,2025-07-15,22,Technical
+T377,C470,Low,Closed,2025-05-18,112,Integration
+T378,C313,High,Open,2025-06-09,,Feature Request
+T379,C416,Critical,Open,2025-06-15,,Bug Report
+T380,C005,Medium,Open,2025-07-10,,Outage
+T381,C242,Low,Resolved,2025-08-27,122,Billing
+T382,C412,Medium,Closed,2025-04-13,40,Configuration
+T383,C229,Critical,In Progress,2025-08-05,,Training
+T384,C484,Critical,In Progress,2025-08-23,,Performance
+T385,C329,Critical,Resolved,2025-06-07,18,Integration
+T386,C581,High,Closed,2025-05-25,5,Feature Request
+T387,C121,High,Closed,2025-07-02,22,Technical
+T388,C529,Critical,Closed,2025-04-08,20,Integration
+T389,C087,Critical,Closed,2025-05-20,22,Configuration
+T390,C137,Critical,Open,2025-06-05,,Outage
+T391,C531,Medium,Closed,2025-07-07,61,Integration
+T392,C468,Medium,In Progress,2025-06-03,,Technical
+T393,C235,High,Closed,2025-03-25,29,Billing
+T394,C409,Critical,Closed,2025-08-03,17,Feature Request
+T395,C546,Medium,Open,2025-06-07,,Integration
+T396,C471,Critical,Closed,2025-09-15,9,Bug Report
+T397,C062,High,Open,2025-07-03,,Configuration
+T398,C279,Medium,Closed,2025-09-16,14,Configuration
+T399,C425,Critical,Closed,2025-04-20,17,Feature Request
+T400,C195,Critical,Resolved,2025-05-19,12,Configuration
+T401,C646,Low,In Progress,2025-04-03,,Technical
+T402,C011,Critical,Closed,2025-05-18,17,Bug Report
+T403,C467,Critical,In Progress,2025-08-14,,Bug Report
+T404,C482,Low,Open,2025-03-27,,Outage
+T405,C493,High,Resolved,2025-07-31,32,Bug Report
+T406,C233,Critical,Open,2025-09-02,,Billing
+T407,C397,Medium,In Progress,2025-07-28,,Performance
+T408,C110,Low,In Progress,2025-04-16,,Billing
+T409,C258,Low,Closed,2025-08-14,157,Integration
+T410,C449,Critical,In Progress,2025-06-11,,Billing
+T411,C430,Low,Open,2025-08-29,,Feature Request
+T412,C382,High,Open,2025-04-07,,Billing
+T413,C181,Critical,In Progress,2025-06-12,,Bug Report
+T414,C455,Low,Open,2025-07-11,,Performance
+T415,C401,Low,In Progress,2025-05-20,,Training
+T416,C494,High,Resolved,2025-04-27,44,Security
+T417,C284,Medium,In Progress,2025-06-10,,Security
+T418,C370,Critical,Resolved,2025-04-04,6,Billing
+T419,C550,Medium,Resolved,2025-05-24,52,Feature Request
+T420,C420,High,Resolved,2025-03-26,7,Integration
+T421,C286,Low,Resolved,2025-03-31,114,Configuration
+T422,C482,Critical,Resolved,2025-06-25,13,Billing
+T423,C531,Low,Resolved,2025-07-29,86,Training
+T424,C365,High,Open,2025-07-24,,Training
+T425,C597,High,Open,2025-04-17,,Integration
+T426,C083,High,Open,2025-04-12,,Feature Request
+T427,C632,High,In Progress,2025-04-10,,Technical
+T428,C022,Low,Resolved,2025-04-03,35,Bug Report
+T429,C506,High,Resolved,2025-09-02,18,Performance
+T430,C500,Critical,Open,2025-09-11,,Performance
+T431,C298,Low,Closed,2025-05-22,147,Training
+T432,C159,Low,In Progress,2025-07-20,,Training
+T433,C297,High,Open,2025-09-15,,Training
+T434,C095,Low,Open,2025-06-08,,Security
+T435,C091,Medium,Closed,2025-08-31,14,Feature Request
+T436,C608,Critical,Open,2025-04-25,,Outage
+T437,C157,High,Open,2025-08-12,,Billing
+T438,C429,Medium,Resolved,2025-04-24,58,Configuration
+T439,C522,High,Closed,2025-07-06,5,Security
+T440,C515,Medium,In Progress,2025-05-17,,Training
+T441,C089,Low,Open,2025-07-01,,Configuration
+T442,C175,High,Resolved,2025-05-28,17,Configuration
+T443,C102,Low,Closed,2025-06-08,146,Outage
+T444,C431,High,Closed,2025-05-20,14,Bug Report
+T445,C243,High,In Progress,2025-05-04,,Security
+T446,C423,High,In Progress,2025-09-13,,Technical
+T447,C454,Medium,Resolved,2025-06-13,72,Billing
+T448,C336,Low,Resolved,2025-07-28,144,Outage
+T449,C014,Low,Open,2025-05-12,,Performance
+T450,C531,Critical,In Progress,2025-08-22,,Bug Report
+T451,C090,Medium,In Progress,2025-04-13,,Configuration
+T452,C597,Medium,In Progress,2025-08-06,,Security
+T453,C204,High,In Progress,2025-04-16,,Integration
+T454,C597,High,Open,2025-07-30,,Billing
+T455,C065,High,Closed,2025-08-24,36,Outage
+T456,C456,Medium,In Progress,2025-07-04,,Training
+T457,C458,Low,Open,2025-06-03,,Technical
+T458,C458,Critical,In Progress,2025-08-04,,Feature Request
+T459,C581,Low,Open,2025-06-23,,Outage
+T460,C353,Medium,Closed,2025-04-24,13,Outage
+T461,C150,Low,Closed,2025-07-05,114,Feature Request
+T462,C543,Medium,In Progress,2025-06-25,,Performance
+T463,C465,Critical,In Progress,2025-04-22,,Technical
+T464,C580,Low,Resolved,2025-04-26,123,Configuration
+T465,C068,Medium,Closed,2025-09-15,10,Outage
+T466,C478,Low,Resolved,2025-05-13,103,Bug Report
+T467,C364,Medium,In Progress,2025-07-30,,Feature Request
+T468,C253,Critical,Open,2025-03-27,,Integration
+T469,C549,Critical,Closed,2025-07-07,16,Technical
+T470,C063,Low,Open,2025-07-08,,Outage
+T471,C488,Medium,In Progress,2025-06-30,,Configuration
+T472,C316,High,Open,2025-08-24,,Billing
+T473,C588,Critical,Closed,2025-08-07,8,Feature Request
+T474,C298,Medium,In Progress,2025-06-13,,Feature Request
+T475,C493,Medium,Closed,2025-04-15,33,Bug Report
+T476,C310,Medium,Open,2025-07-26,,Billing
+T477,C366,Medium,Closed,2025-04-11,55,Training
+T478,C594,Medium,In Progress,2025-04-10,,Technical
+T479,C018,Medium,In Progress,2025-08-26,,Security
+T480,C267,Critical,Resolved,2025-08-30,16,Feature Request
+T481,C020,Critical,Closed,2025-09-13,13,Configuration
+T482,C305,Low,Resolved,2025-05-27,76,Feature Request
+T483,C580,Low,In Progress,2025-03-30,,Bug Report
+T484,C201,Medium,Open,2025-05-14,,Performance
+T485,C479,Medium,In Progress,2025-09-16,,Configuration
+T486,C384,Low,In Progress,2025-07-29,,Configuration
+T487,C021,Medium,Closed,2025-06-07,69,Performance
+T488,C167,Critical,Open,2025-08-12,,Technical
+T489,C191,Critical,Closed,2025-08-30,7,Billing
+T490,C489,High,In Progress,2025-08-21,,Integration
+T491,C638,Low,Closed,2025-04-06,53,Security
+T492,C369,Medium,Open,2025-06-27,,Outage
+T493,C296,High,In Progress,2025-05-04,,Bug Report
+T494,C089,Low,Open,2025-06-04,,Feature Request
+T495,C089,High,Resolved,2025-08-21,18,Training
+T496,C044,Medium,Open,2025-08-25,,Configuration
+T497,C422,High,Resolved,2025-04-06,18,Training
+T498,C026,Low,Resolved,2025-05-22,85,Integration
+T499,C303,High,Resolved,2025-08-27,34,Technical
+T500,C373,Medium,In Progress,2025-04-16,,Training
+T501,C299,High,Open,2025-08-16,,Performance
+T502,C362,Low,Open,2025-06-14,,Security
+T503,C077,High,Open,2025-04-03,,Training
+T504,C023,Medium,Resolved,2025-07-10,10,Performance
+T505,C637,Critical,Resolved,2025-07-11,18,Configuration
+T506,C063,Medium,In Progress,2025-08-11,,Outage
+T507,C359,Low,Open,2025-08-23,,Technical
+T508,C042,High,Resolved,2025-08-21,45,Security
+T509,C092,High,In Progress,2025-04-15,,Integration
+T510,C007,Low,Resolved,2025-07-29,108,Configuration
+T511,C398,Critical,Closed,2025-07-28,15,Outage
+T512,C163,High,Closed,2025-05-23,46,Feature Request
+T513,C549,Critical,Closed,2025-03-28,8,Outage
+T514,C154,Low,Resolved,2025-04-03,117,Bug Report
+T515,C136,Medium,Open,2025-04-29,,Training
+T516,C307,Medium,Closed,2025-05-01,47,Feature Request
+T517,C234,Low,Closed,2025-06-07,122,Configuration
+T518,C364,Critical,Resolved,2025-06-27,2,Bug Report
+T519,C028,Critical,In Progress,2025-09-04,,Bug Report
+T520,C641,Low,In Progress,2025-07-24,,Integration
+T521,C649,High,Closed,2025-04-15,23,Training
+T522,C405,Medium,In Progress,2025-07-15,,Configuration
+T523,C302,Low,Open,2025-06-22,,Outage
+T524,C234,Medium,Resolved,2025-09-13,32,Integration
+T525,C477,High,Closed,2025-06-07,29,Training
+T526,C158,Medium,Resolved,2025-07-01,30,Performance
+T527,C203,Low,Closed,2025-05-24,37,Training
+T528,C606,Low,Closed,2025-08-09,99,Performance
+T529,C213,High,Open,2025-03-28,,Billing
+T530,C005,High,Resolved,2025-08-27,40,Feature Request
+T531,C480,Medium,Open,2025-08-31,,Security
+T532,C373,Low,In Progress,2025-09-05,,Security
+T533,C326,Low,Closed,2025-06-15,32,Configuration
+T534,C251,High,Open,2025-09-17,,Technical
+T535,C063,Low,Resolved,2025-05-25,59,Performance
+T536,C538,Critical,Resolved,2025-04-28,8,Billing
+T537,C294,Medium,Open,2025-09-12,,Technical
+T538,C529,Critical,Closed,2025-09-15,5,Bug Report
+T539,C557,Low,Open,2025-07-04,,Bug Report
+T540,C512,Low,In Progress,2025-03-31,,Training
+T541,C106,High,Closed,2025-05-22,12,Outage
+T542,C224,Low,Open,2025-09-15,,Integration
+T543,C170,Medium,Resolved,2025-04-28,52,Performance
+T544,C622,Critical,Resolved,2025-08-22,4,Security
+T545,C282,Medium,Closed,2025-09-17,56,Training
+T546,C567,Low,Open,2025-07-08,,Feature Request
+T547,C601,Low,Closed,2025-07-06,114,Security
+T548,C210,Low,Open,2025-08-26,,Feature Request
+T549,C459,Low,Closed,2025-06-28,146,Feature Request
+T550,C054,Critical,Resolved,2025-09-05,4,Training
+T551,C359,Low,Closed,2025-03-24,107,Performance
+T552,C074,High,Closed,2025-06-19,34,Performance
+T553,C340,Low,Resolved,2025-08-10,121,Integration
+T554,C357,Low,Open,2025-06-06,,Performance
+T555,C632,Low,In Progress,2025-04-21,,Outage
+T556,C616,High,In Progress,2025-05-31,,Outage
+T557,C117,High,Open,2025-04-18,,Integration
+T558,C187,High,Resolved,2025-08-21,5,Outage
+T559,C006,High,Resolved,2025-06-24,40,Performance
+T560,C175,High,In Progress,2025-07-24,,Outage
+T561,C016,Low,Closed,2025-09-15,114,Training
+T562,C340,High,Open,2025-08-27,,Bug Report
+T563,C310,High,Closed,2025-08-05,28,Outage
+T564,C113,Low,In Progress,2025-05-24,,Performance
+T565,C233,Critical,In Progress,2025-06-14,,Performance
+T566,C511,Critical,In Progress,2025-08-25,,Bug Report
+T567,C587,Medium,Open,2025-06-02,,Outage
+T568,C531,Low,Open,2025-06-14,,Technical
+T569,C569,Critical,In Progress,2025-04-29,,Integration
+T570,C508,Low,Resolved,2025-08-08,46,Outage
+T571,C083,Medium,Open,2025-08-07,,Billing
+T572,C495,Medium,Resolved,2025-08-21,61,Outage
+T573,C174,Low,Resolved,2025-06-25,130,Technical
+T574,C585,Medium,Closed,2025-04-05,57,Outage
+T575,C512,Low,Resolved,2025-09-10,147,Billing
+T576,C067,Critical,Closed,2025-05-31,13,Security
+T577,C232,Low,Closed,2025-08-31,118,Technical
+T578,C210,Critical,In Progress,2025-05-18,,Security
+T579,C609,Low,Closed,2025-09-15,123,Integration
+T580,C302,High,Open,2025-09-03,,Feature Request
+T581,C372,Low,In Progress,2025-06-14,,Bug Report
+T582,C109,Medium,Open,2025-07-19,,Billing
+T583,C394,Low,Closed,2025-06-09,92,Billing
+T584,C517,Low,Resolved,2025-08-30,39,Bug Report
+T585,C140,Medium,Open,2025-08-12,,Bug Report
+T586,C372,Low,Open,2025-07-30,,Billing
+T587,C303,Low,Open,2025-08-13,,Configuration
+T588,C136,High,Open,2025-05-11,,Feature Request
+T589,C209,High,In Progress,2025-05-24,,Configuration
+T590,C238,Low,Resolved,2025-04-06,168,Billing
+T591,C062,Medium,Open,2025-04-13,,Feature Request
+T592,C562,Low,In Progress,2025-04-08,,Outage
+T593,C592,Critical,Open,2025-04-28,,Performance
+T594,C499,Critical,Resolved,2025-05-24,4,Training
+T595,C324,Medium,In Progress,2025-06-08,,Training
+T596,C229,Low,Closed,2025-09-02,165,Integration
+T597,C051,Medium,Open,2025-08-28,,Performance
+T598,C089,High,In Progress,2025-04-04,,Training
+T599,C178,Critical,Resolved,2025-08-04,23,Configuration
+T600,C041,Low,Resolved,2025-07-25,151,Feature Request
+T601,C355,Medium,In Progress,2025-06-09,,Configuration
+T602,C298,High,Resolved,2025-06-12,26,Outage
+T603,C104,Low,In Progress,2025-05-19,,Security
+T604,C510,Medium,In Progress,2025-07-25,,Bug Report
+T605,C364,Critical,In Progress,2025-06-20,,Performance
+T606,C452,Medium,Resolved,2025-08-20,9,Security
+T607,C558,Low,Resolved,2025-08-02,65,Feature Request
+T608,C416,High,Closed,2025-06-04,46,Bug Report
+T609,C214,High,Open,2025-08-17,,Integration
+T610,C131,Medium,Open,2025-09-16,,Security
+T611,C592,Low,Closed,2025-06-07,13,Outage
+T612,C071,High,In Progress,2025-08-15,,Training
+T613,C205,Medium,Open,2025-08-03,,Bug Report
+T614,C206,Low,Closed,2025-06-11,13,Security
+T615,C027,Medium,Resolved,2025-08-24,32,Configuration
+T616,C543,Low,Closed,2025-05-26,35,Configuration
+T617,C527,Low,Open,2025-08-16,,Performance
+T618,C221,High,Resolved,2025-09-05,19,Training
+T619,C373,High,Resolved,2025-09-06,35,Billing
+T620,C303,Critical,Resolved,2025-07-30,4,Billing
+T621,C434,Medium,Resolved,2025-07-02,21,Performance
+T622,C457,Medium,Open,2025-08-31,,Integration
+T623,C292,Medium,Open,2025-05-15,,Technical
+T624,C455,High,Closed,2025-07-22,17,Training
+T625,C579,Critical,In Progress,2025-06-04,,Security
+T626,C581,Medium,Open,2025-09-14,,Configuration
+T627,C099,Low,Resolved,2025-07-01,157,Configuration
+T628,C267,Critical,Resolved,2025-08-13,14,Training
+T629,C058,High,Resolved,2025-07-21,42,Configuration
+T630,C051,Critical,Closed,2025-08-15,6,Training
+T631,C644,Medium,In Progress,2025-08-23,,Feature Request
+T632,C293,Medium,Open,2025-08-07,,Performance
+T633,C547,Low,In Progress,2025-08-11,,Technical
+T634,C548,Low,Closed,2025-06-30,54,Security
+T635,C188,High,In Progress,2025-08-28,,Integration
+T636,C375,Critical,Closed,2025-07-28,23,Billing
+T637,C475,Critical,Open,2025-06-25,,Feature Request
+T638,C263,Medium,In Progress,2025-05-17,,Security
+T639,C204,High,Resolved,2025-04-29,41,Integration
+T640,C485,High,Open,2025-03-23,,Integration
+T641,C605,Low,Resolved,2025-05-06,69,Feature Request
+T642,C441,Low,Resolved,2025-04-08,167,Technical
+T643,C199,Medium,Resolved,2025-04-23,36,Outage
+T644,C618,Medium,Closed,2025-07-07,17,Technical
+T645,C366,Critical,Resolved,2025-07-04,4,Integration
+T646,C591,Medium,Open,2025-06-08,,Technical
+T647,C574,Critical,In Progress,2025-03-23,,Security
+T648,C034,High,Open,2025-05-17,,Bug Report
+T649,C265,Low,Closed,2025-03-24,46,Outage
+T650,C073,Low,Closed,2025-08-12,19,Performance
+T651,C517,Low,Open,2025-09-09,,Outage
+T652,C214,Critical,Resolved,2025-04-25,13,Security
+T653,C417,Critical,Open,2025-09-11,,Configuration
+T654,C535,Medium,Open,2025-07-11,,Training
+T655,C364,Low,Resolved,2025-07-11,42,Feature Request
+T656,C469,Medium,Closed,2025-05-17,46,Integration
+T657,C070,Low,In Progress,2025-04-09,,Technical
+T658,C305,Medium,Open,2025-04-02,,Configuration
+T659,C157,Medium,Open,2025-06-03,,Configuration
+T660,C024,Low,In Progress,2025-04-08,,Security
+T661,C550,Low,Resolved,2025-06-13,158,Security
+T662,C171,Medium,Open,2025-04-25,,Integration
+T663,C259,Medium,Open,2025-04-25,,Configuration
+T664,C429,Low,Closed,2025-07-08,12,Performance
+T665,C516,Medium,Open,2025-07-26,,Security
+T666,C080,Low,Open,2025-07-20,,Outage
+T667,C202,Medium,Closed,2025-04-26,15,Training
+T668,C145,Medium,In Progress,2025-07-19,,Bug Report
+T669,C425,Low,Open,2025-06-28,,Security
+T670,C637,Medium,Open,2025-09-05,,Outage
+T671,C207,Critical,Resolved,2025-09-14,5,Outage
+T672,C109,Critical,In Progress,2025-05-07,,Bug Report
+T673,C395,Critical,Closed,2025-08-22,2,Performance
+T674,C609,Critical,Open,2025-05-28,,Bug Report
+T675,C316,High,Closed,2025-05-19,39,Billing
+T676,C083,Low,Closed,2025-07-07,12,Bug Report
+T677,C016,Medium,Open,2025-08-05,,Technical
+T678,C490,Low,Closed,2025-09-01,104,Integration
+T679,C352,Medium,Closed,2025-08-28,24,Feature Request
+T680,C091,High,In Progress,2025-06-29,,Security
+T681,C366,Critical,Closed,2025-06-27,18,Training
+T682,C262,Medium,Closed,2025-07-26,53,Technical
+T683,C138,Low,Resolved,2025-03-25,89,Outage
+T684,C275,High,Open,2025-06-24,,Configuration
+T685,C462,Critical,Resolved,2025-05-22,2,Configuration
+T686,C002,High,Resolved,2025-08-16,22,Training
+T687,C210,Low,In Progress,2025-09-17,,Bug Report
+T688,C148,High,Closed,2025-07-15,23,Integration
+T689,C555,Medium,Resolved,2025-08-07,28,Performance
+T690,C005,Low,Closed,2025-07-21,94,Outage
+T691,C165,High,Closed,2025-09-13,40,Outage
+T692,C031,Medium,Resolved,2025-05-05,36,Technical
+T693,C388,Medium,Open,2025-05-04,,Feature Request
+T694,C181,Medium,In Progress,2025-07-25,,Bug Report
+T695,C049,Low,Open,2025-09-12,,Performance
+T696,C494,Critical,Resolved,2025-04-22,22,Training
+T697,C308,Low,Closed,2025-04-09,46,Billing
+T698,C418,Medium,In Progress,2025-08-21,,Performance
+T699,C084,Low,Open,2025-04-16,,Bug Report
+T700,C168,Low,Resolved,2025-07-17,93,Configuration

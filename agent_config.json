@@ -1,0 +1,42 @@
+{
+  "agent": {
+    "name": "EnterpriseDecisionAgent",
+    "description": "AI agent for enterprise data-driven decision making",
+    "version": "1.0.0",
+    "model": "anthropic.claude-3-5-sonnet-20241022-v2:0"
+  },
+  "memory": {
+    "type": "conversation",
+    "max_history": 10,
+    "context_window": 3
+  },
+  "tools": [
+    {
+      "name": "retrieve_customer_data",
+      "description": "Retrieve customer information from CRM systems",
+      "parameters": {
+        "customer_filter": "optional string filter"
+      }
+    },
+    {
+      "name": "analyze_support_tickets", 
+      "description": "Analyze support ticket patterns and metrics",
+      "parameters": {
+        "severity_filter": "optional severity level filter"
+      }
+    },
+    {
+      "name": "get_financial_metrics",
+      "description": "Retrieve financial and ERP data",
+      "parameters": {
+        "period": "time period for metrics"
+      }
+    }
+  ],
+  "observability": {
+    "logging": true,
+    "tracing": true,
+    "metrics": true,
+    "log_level": "INFO"
+  }
+}
