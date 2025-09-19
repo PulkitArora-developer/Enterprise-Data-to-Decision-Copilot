@@ -10,9 +10,6 @@ import plotly.express as px
 from bedrock_agent import BedrockAgentCore
 from multi_agent_orchestrator import MultiAgentOrchestrator
 from agent_analytics import AgentOptimizer
-import boto3
-boto3.setup_default_session(profile_name='default')
-
 
 
 # Page config
@@ -29,6 +26,9 @@ if 'orchestrator' not in st.session_state:
     st.session_state.orchestrator = MultiAgentOrchestrator()
 if 'chat_history' not in st.session_state:
     st.session_state.chat_history = []
+if 'last_result' not in st.session_state:
+    st.session_state.last_result = {}
+
 
 def main():
     st.title("🤖 BedrockAgentCore Enterprise Decision Copilot")
@@ -95,7 +95,9 @@ def main():
                         agent_type = "Standard"
                     
                     execution_time = time.time() - start_time
-                    
+
+                    st.session_state.last_result = result
+
                     # Add to chat history
                     st.session_state.chat_history.append({
                         "query": query,
@@ -122,37 +124,39 @@ def main():
                 if 'raw_analysis' in result:
                     st.markdown(f"**Analysis:** {result['raw_analysis']}")
 
-                if 'specialized_analysis' in result:
-                    st.subheader("📊 Specialized Analysis")
-                    try:
-                        parsed = result['specialized_analysis']
+    with col2:
+        st.header("⚡ Specialised Analysis")
+        if st.session_state.last_result and 'specialized_analysis' in st.session_state.last_result:
+            st.subheader("📊 Specialized Analysis")
+            try:
+                parsed = st.session_state.last_result['specialized_analysis']
 
-                        if "financial" in parsed:
-                            fin = parsed["financial"]
-                            st.metric("Revenue Impact", f"${fin['revenue_impact']:,}")
-                            st.metric("ROI", f"{fin['roi']:.2f}")
-                            st.metric("Payback Period", f"{fin['payback_period']} months")
-                            st.table(fin["cost_analysis"])
-                            st.write("**Financial Risks:**")
-                            for i in  fin["financial_risks"]:
-                                st.markdown(f"- {i}")
+                if "financial" in parsed:
+                    fin = parsed["financial"]
+                    st.metric("Revenue Impact", f"${fin['revenue_impact']:,}")
+                    st.metric("ROI", f"{fin['roi']:.2f}")
+                    st.metric("Payback Period", f"{fin['payback_period']} months")
+                    st.table(fin["cost_analysis"])
+                    st.write("**Financial Risks:**")
+                    for i in fin["financial_risks"]:
+                        st.markdown(f"- {i}")
 
-                            st.write("**Recommendations:**")
-                            for r in fin["recommendations"]:
-                                st.markdown(f"- {r}")
+                    st.write("**Recommendations:**")
+                    for r in fin["recommendations"]:
+                        st.markdown(f"- {r}")
 
-                        if "risk" in parsed:
-                            risk = parsed["risk"]
-                            st.metric("Risk Level", risk["risk_level"])
-                            st.metric("Probability", f"{risk['probability']:.2f}")
-                            st.metric("Impact Score", risk["impact_score"])
-                            st.write("**Risk Factors:**", risk["risk_factors"])
-                            st.write("**Mitigation Strategies:**")
-                            for m in risk["mitigation_strategies"]:
-                                st.markdown(f"- {m}")
+                if "risk" in parsed:
+                    risk = parsed["risk"]
+                    st.metric("Risk Level", risk["risk_level"])
+                    st.metric("Probability", f"{risk['probability']:.2f}")
+                    st.metric("Impact Score", risk["impact_score"])
+                    st.write("**Risk Factors:**", risk["risk_factors"])
+                    st.write("**Mitigation Strategies:**")
+                    for m in risk["mitigation_strategies"]:
+                        st.markdown(f"- {m}")
 
-                    except Exception:
-                        st.markdown(result['specialized_analysis'])
+            except Exception:
+                st.markdown(st.session_state.last_result['specialized_analysis'])
 
 
 if __name__ == "__main__":
